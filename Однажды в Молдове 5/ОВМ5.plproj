@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE plproj>
+<Project ClassID="1da752be-016f-4206-9bb1-37557188bfef" version="1.1.0">
+
+  <Bin AssetName="Chill_Zone_01" AssetType="AssetTypeBin" ClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="3523ee40-b818-4a1c-8b1a-2977129ca97b"/>
+    <AssetChild ClassID="22da24a0-fff1-4ff2-9719-2301b17eb10e"/>
+    <AssetChild ClassID="621a924f-7a75-4286-ab0c-c113755b6f08"/>
+    <AssetChild ClassID="425b07bf-bc96-4221-86ad-8038b06d6ba0"/>
+    <AssetChild ClassID="20d16fec-20b0-4eb0-a7b2-9a88916ef087"/>
+    <AssetChild ClassID="84c19f4b-2ebe-4c25-af90-c4545ab59439"/>
+    <AssetChild ClassID="b7619ffa-cff9-43e3-b72f-cbb9a9b9a242"/>
+    <AssetChild ClassID="ceb92b78-260b-43b5-baf9-8c89e4802dd2"/>
+    <AssetChild ClassID="8e60e0fb-e349-47b9-8af5-4d514ad7f6ed"/>
+    <AssetChild ClassID="8075047f-6e0c-446f-bc3d-4f9440946bf9"/>
+    <AssetChild ClassID="38107b77-a9f7-4276-8c6c-5feea20e9e2f"/>
+    <AssetChild ClassID="89c3d40d-bf8e-4511-be2c-d3b93385dc83"/>
+    <AssetChild ClassID="a15dc16a-54df-4f73-9645-87a1c3d2a534"/>
+    <AssetChild ClassID="886c8cfb-4542-4638-b912-469bcf7181e2"/>
+    <AssetChild ClassID="73393aa6-f1d7-4e53-9256-111b51b9987e"/>
+    <AssetChild ClassID="240d4bcf-d8fe-4c33-bda5-72b791028aad"/>
+    <AssetChild ClassID="b8018674-a8f3-4e6e-9b4d-d9b6d57e0bea"/>
+    <AssetChild ClassID="434c1b17-7c7c-4c49-8422-e812f110422d"/>
+    <AssetChild ClassID="dcc4f9d0-00de-4cad-9a06-d901afa898d6"/>
+    <AssetChild ClassID="06c4eda4-b027-44e9-8b8c-6f8d77935038"/>
+    <AssetChild ClassID="0c69209e-a5b0-4576-91cc-1d25336f54e7"/>
+    <AssetChild ClassID="3626b353-fc8b-43b8-8454-6e6494fd358a"/>
+    <AssetChild ClassID="0ba61f21-8cd2-4086-a5fa-8c58b9806f80"/>
+    <AssetChild ClassID="059eabb7-adcf-406b-9e9b-8b4dd6e5af03"/>
+    <AssetChild ClassID="df17aafd-0846-490c-a43d-4609ed1333f3"/>
+    <AssetChild ClassID="daff1fad-587f-4450-a5ae-51a777d41028"/>
+    <AssetChild ClassID="da7cabc5-4adc-4175-a5be-1f736d14d3ee"/>
+    <AssetChild ClassID="68db2fda-2151-4553-86ea-d6877c04e9e1"/>
+    <AssetChild ClassID="52de99ae-2417-433d-bcfb-cc477cb4cdbb"/>
+    <AssetChild ClassID="dbdec7ef-2273-4f81-8045-71e8e6cfbf27"/>
+  </Bin>
+
+  <MasterClip AssetName="Chill_Zone_1" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="3523ee40-b818-4a1c-8b1a-2977129ca97b" CreatedDate="10/11/21, 15:37:01" DropFrame="false" Duration="27619978780646" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_1.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:37:08" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="a15dc16a-54df-4f73-9645-87a1c3d2a534"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_2" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="22da24a0-fff1-4ff2-9719-2301b17eb10e" CreatedDate="10/11/21, 15:37:05" DropFrame="false" Duration="23816577247460" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_2.mpg" FrameRate="8475650266" ImportDate="2021-10-11 15:37:13" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="886c8cfb-4542-4638-b912-469bcf7181e2"/>
+    <SubClipReference ClassID="73393aa6-f1d7-4e53-9256-111b51b9987e"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_3" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="621a924f-7a75-4286-ab0c-c113755b6f08" CreatedDate="10/11/21, 15:37:19" DropFrame="false" Duration="62928167473256" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_3.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:37:32" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="240d4bcf-d8fe-4c33-bda5-72b791028aad"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="425b07bf-bc96-4221-86ad-8038b06d6ba0" CreatedDate="10/11/21, 15:37:38" DropFrame="false" Duration="25316902683670" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_4.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:37:48" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0"/>
+
+  <MasterClip AssetName="Chill_Zone_5" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="20d16fec-20b0-4eb0-a7b2-9a88916ef087" CreatedDate="10/11/21, 15:38:13" DropFrame="false" Duration="68804398397158" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_5.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:38:29" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="b8018674-a8f3-4e6e-9b4d-d9b6d57e0bea"/>
+    <SubClipReference ClassID="434c1b17-7c7c-4c49-8422-e812f110422d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_6" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="84c19f4b-2ebe-4c25-af90-c4545ab59439" CreatedDate="10/11/21, 17:32:34" DropFrame="false" Duration="34732419668366" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_6.mpg" FrameRate="8467191533" ImportDate="2021-10-11 17:32:37" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="dcc4f9d0-00de-4cad-9a06-d901afa898d6"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_7" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b7619ffa-cff9-43e3-b72f-cbb9a9b9a242" CreatedDate="10/11/21, 15:38:43" DropFrame="false" Duration="45460351340677" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_7.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:38:51" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="38107b77-a9f7-4276-8c6c-5feea20e9e2f"/>
+    <SubClipReference ClassID="89c3d40d-bf8e-4511-be2c-d3b93385dc83"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_8" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="ceb92b78-260b-43b5-baf9-8c89e4802dd2" CreatedDate="10/11/21, 15:38:58" DropFrame="false" Duration="60963779037600" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_8.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:39:10" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="06c4eda4-b027-44e9-8b8c-6f8d77935038"/>
+    <SubClipReference ClassID="0c69209e-a5b0-4576-91cc-1d25336f54e7"/>
+    <SubClipReference ClassID="3626b353-fc8b-43b8-8454-6e6494fd358a"/>
+    <SubClipReference ClassID="0ba61f21-8cd2-4086-a5fa-8c58b9806f80"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_9" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8e60e0fb-e349-47b9-8af5-4d514ad7f6ed" CreatedDate="10/11/21, 17:29:07" DropFrame="false" Duration="48127516673572" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_9.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:39:26" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="059eabb7-adcf-406b-9e9b-8b4dd6e5af03"/>
+    <SubClipReference ClassID="df17aafd-0846-490c-a43d-4609ed1333f3"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Chill_Zone_10" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8075047f-6e0c-446f-bc3d-4f9440946bf9" CreatedDate="10/11/21, 15:39:22" DropFrame="false" Duration="67170230431289" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill Zone\Chill_Zone_10.mpg" FrameRate="8467191533" ImportDate="2021-10-11 15:39:34" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467" StartTime="0">
+    <SubClipReference ClassID="daff1fad-587f-4450-a5ae-51a777d41028"/>
+    <SubClipReference ClassID="da7cabc5-4adc-4175-a5be-1f736d14d3ee"/>
+    <SubClipReference ClassID="68db2fda-2151-4553-86ea-d6877c04e9e1"/>
+    <SubClipReference ClassID="52de99ae-2417-433d-bcfb-cc477cb4cdbb"/>
+    <SubClipReference ClassID="dbdec7ef-2273-4f81-8045-71e8e6cfbf27"/>
+  </MasterClip>
+
+  <SubClip AssetName="Слушай отвали А" AssetType="AssetTypeSubClip" ClassID="38107b77-a9f7-4276-8c6c-5feea20e9e2f" Duration="10592456607783" ImportDate="2022-07-19 01:51:58" InOutMarkerID="2abfe363-fb09-5207-585e-e26b00000024" InPoint="982194217828" MasterClipReference="b7619ffa-cff9-43e3-b72f-cbb9a9b9a242" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Владик идёт на хуй официально" AssetType="AssetTypeSubClip" ClassID="89c3d40d-bf8e-4511-be2c-d3b93385dc83" Duration="753580046437" ImportDate="2022-07-19 01:51:58" InOutMarkerID="d4e2850a-0285-296a-66d3-d53500000024" InPoint="43995527205468" MasterClipReference="b7619ffa-cff9-43e3-b72f-cbb9a9b9a242" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Петя танцует под бешаную песню" AssetType="AssetTypeSubClip" ClassID="a15dc16a-54df-4f73-9645-87a1c3d2a534" Duration="11227495972758" ImportDate="2022-07-19 01:51:58" InOutMarkerID="07228413-9dfd-909e-a96a-a22e00000024" InPoint="10668661331580" MasterClipReference="3523ee40-b818-4a1c-8b1a-2977129ca97b" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Бетономешалка" AssetType="AssetTypeSubClip" ClassID="886c8cfb-4542-4638-b912-469bcf7181e2" Duration="9704619554570" ImportDate="2021-12-23 23:05:37" InOutMarkerID="218f5da2-683a-697b-6316-687100000024" InPoint="0" MasterClipReference="22da24a0-fff1-4ff2-9719-2301b17eb10e" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Петя убийца хлебушков (Конфликт данных, введенных в поля: Chill_Zone_2_02)" AssetType="AssetTypeSubClip" ClassID="73393aa6-f1d7-4e53-9256-111b51b9987e" Duration="13120306611768" ImportDate="2021-12-23 23:05:37" InOutMarkerID="7738154e-b78e-8479-e397-722700000024" InPoint="10696270635692" MasterClipReference="22da24a0-fff1-4ff2-9719-2301b17eb10e" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="возможно для титров" AssetType="AssetTypeSubClip" ClassID="240d4bcf-d8fe-4c33-bda5-72b791028aad" Duration="18187527412884" ImportDate="2022-07-19 01:51:58" InOutMarkerID="b931ceb0-6c81-12d1-c0fb-eee200000024" InPoint="44740640060372" MasterClipReference="621a924f-7a75-4286-ab0c-c113755b6f08" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="bravo от владика" AssetType="AssetTypeSubClip" ClassID="b8018674-a8f3-4e6e-9b4d-d9b6d57e0bea" Duration="3564687635393" ImportDate="2022-07-19 01:51:58" InOutMarkerID="4e59baf0-7920-77d2-defe-295200000024" InPoint="39321637479252" MasterClipReference="20d16fec-20b0-4eb0-a7b2-9a88916ef087" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Всё как надо играет" AssetType="AssetTypeSubClip" ClassID="434c1b17-7c7c-4c49-8422-e812f110422d" Duration="11566183634078" ImportDate="2022-07-19 01:51:58" InOutMarkerID="db94417f-a8a9-e320-843c-a7bc00000024" InPoint="55807259394003" MasterClipReference="20d16fec-20b0-4eb0-a7b2-9a88916ef087" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Ваня бодро ссыт" AssetType="AssetTypeSubClip" ClassID="dcc4f9d0-00de-4cad-9a06-d901afa898d6" Duration="9119165281041" ImportDate="2022-07-19 01:51:58" InOutMarkerID="b264fba9-8017-7a0e-24c4-b40c00000024" InPoint="25291501109071" MasterClipReference="84c19f4b-2ebe-4c25-af90-c4545ab59439" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Ваня бодро отжимается " AssetType="AssetTypeSubClip" ClassID="06c4eda4-b027-44e9-8b8c-6f8d77935038" Duration="1710372689666" ImportDate="2022-07-19 01:51:58" InOutMarkerID="d843951e-0bfa-2897-56f5-b89f00000024" InPoint="2006724393321" MasterClipReference="ceb92b78-260b-43b5-baf9-8c89e4802dd2" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Витя помоги ему " AssetType="AssetTypeSubClip" ClassID="0c69209e-a5b0-4576-91cc-1d25336f54e7" Duration="3869506530581" ImportDate="2022-07-19 01:51:58" InOutMarkerID="a01284c2-4d98-657d-a812-bfcb00000024" InPoint="5308929091191" MasterClipReference="ceb92b78-260b-43b5-baf9-8c89e4802dd2" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Владик брат Aphex Twin'a " AssetType="AssetTypeSubClip" ClassID="3626b353-fc8b-43b8-8454-6e6494fd358a" Duration="14732913267420" ImportDate="2022-07-19 01:51:58" InOutMarkerID="fb841877-5c9a-caaa-55b7-ac8c00000024" InPoint="18399207201209" MasterClipReference="ceb92b78-260b-43b5-baf9-8c89e4802dd2" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Владик хочет посмотреть шнягу Вани" AssetType="AssetTypeSubClip" ClassID="0ba61f21-8cd2-4086-a5fa-8c58b9806f80" Duration="14411159989166" ImportDate="2022-07-19 01:51:58" InOutMarkerID="3c55419d-d465-5ce3-7c52-4a9300000024" InPoint="33445406555350" MasterClipReference="ceb92b78-260b-43b5-baf9-8c89e4802dd2" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Дима в Full HD" AssetType="AssetTypeSubClip" ClassID="059eabb7-adcf-406b-9e9b-8b4dd6e5af03" Duration="28822319978332" ImportDate="2022-07-19 01:51:58" InOutMarkerID="62b1a3fb-1e33-3032-e88a-b41200000024" InPoint="6714482885669" MasterClipReference="8e60e0fb-e349-47b9-8af5-4d514ad7f6ed" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Владик смотрит на время и хочет знать через сколько минут ему нужно будет сосаться с бомжом" AssetType="AssetTypeSubClip" ClassID="df17aafd-0846-490c-a43d-4609ed1333f3" Duration="1515627284407" ImportDate="2022-07-19 01:51:58" InOutMarkerID="48a437cb-e9ac-6d77-6c8c-2e2c00000024" InPoint="46611889389165" MasterClipReference="8e60e0fb-e349-47b9-8af5-4d514ad7f6ed" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Диму собираются пиздить " AssetType="AssetTypeSubClip" ClassID="daff1fad-587f-4450-a5ae-51a777d41028" Duration="8695805704391" ImportDate="2022-07-19 01:51:58" InOutMarkerID="df8ce43c-21d0-c4c0-6193-9f7d00000024" InPoint="2345412054641" MasterClipReference="8075047f-6e0c-446f-bc3d-4f9440946bf9" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Стой КАРМАН ПУСТОЙ" AssetType="AssetTypeSubClip" ClassID="da7cabc5-4adc-4175-a5be-1f736d14d3ee" Duration="27255889544727" ImportDate="2022-07-19 01:51:58" InOutMarkerID="de6efb78-c363-a348-ecc6-0bbe00000024" InPoint="11354503845753" MasterClipReference="8075047f-6e0c-446f-bc3d-4f9440946bf9" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Петя рождается заново" AssetType="AssetTypeSubClip" ClassID="68db2fda-2151-4553-86ea-d6877c04e9e1" Duration="11286766313489" ImportDate="2022-07-19 01:51:58" InOutMarkerID="d07ed13f-02aa-a2df-9556-71c500000024" InPoint="40363102037811" MasterClipReference="8075047f-6e0c-446f-bc3d-4f9440946bf9" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Владик повадырь блядей" AssetType="AssetTypeSubClip" ClassID="52de99ae-2417-433d-bcfb-cc477cb4cdbb" Duration="7552734847436" ImportDate="2022-07-19 01:51:58" InOutMarkerID="e7d2c42e-480f-5d6e-fac5-929300000024" InPoint="54630319770916" MasterClipReference="8075047f-6e0c-446f-bc3d-4f9440946bf9" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <SubClip AssetName="Дима стал новым героем Uncharted" AssetType="AssetTypeSubClip" ClassID="dbdec7ef-2273-4f81-8045-71e8e6cfbf27" Duration="2209936990113" ImportDate="2022-07-19 01:51:58" InOutMarkerID="6d2ad7d9-fccd-b498-2e2c-5edc00000024" InPoint="64960293441176" MasterClipReference="8075047f-6e0c-446f-bc3d-4f9440946bf9" ParentClassID="92bf72dd-9f15-4e92-9fdc-e291e6d9f467"/>
+
+  <RoughCut AssetName="Черновой монтаж Однажды в Молдове 5" AssetRelinkSkipped="false" AssetType="AssetTypeRoughCut" ClassID="961261d3-35a3-4917-b6ec-b889927a901b" CreatedDate="10/11/21, 17:45:18" FilePath_BEFormat="D:\Documents\Adobe\Prelude\10.0\Rough Cuts\Черновой монтаж Однажды в Молдове 5.arcutx" ImportDate="2021-10-11 18:22:23" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef"/>
+
+  <Bin AssetName="Владислав Овчинников" AssetType="AssetTypeBin" ClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="57d0a1c7-e73e-4a0c-bfb8-42509fa1866c"/>
+    <AssetChild ClassID="498b78d7-8ccc-4ffa-98a9-68853dd2cd39"/>
+    <AssetChild ClassID="5039d03c-028a-4248-bbef-d850ccde1459"/>
+    <AssetChild ClassID="a47eef5c-9f18-4d3f-abb6-2ccd0099d02b"/>
+    <AssetChild ClassID="96ebd42f-fd70-4746-a214-f3eebf841af7"/>
+    <AssetChild ClassID="cf604919-4c9d-4131-837b-318dccc2a6bd"/>
+    <AssetChild ClassID="2d984b06-78de-4dda-ac32-b3e416e729e3"/>
+  </Bin>
+
+  <MasterClip AssetName="На ЖД Вокзале Влад что-то пиздит" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="57d0a1c7-e73e-4a0c-bfb8-42509fa1866c" CreatedDate="08/10/21, 17:14:54" DropFrame="false" Duration="8819107991978" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Владислав Овчинников\2021-03-10 060.mp4" FrameRate="8463635309" ImportDate="2021-10-14 10:26:37" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6" StartTime="0">
+    <SubClipReference ClassID="a47eef5c-9f18-4d3f-abb6-2ccd0099d02b"/>
+    <SubClipReference ClassID="96ebd42f-fd70-4746-a214-f3eebf841af7"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Смотрит в телефон как ебанутый" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="498b78d7-8ccc-4ffa-98a9-68853dd2cd39" CreatedDate="09/30/21, 15:40:24" DropFrame="false" Duration="22640224451575" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Владислав Овчинников\20210930_173854.mp4" FrameRate="8463635309" ImportDate="2021-10-14 10:26:39" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6" StartTime="0">
+    <SubClipReference ClassID="cf604919-4c9d-4131-837b-318dccc2a6bd"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Владик учит весь мир как завязывать шнурки" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5039d03c-028a-4248-bbef-d850ccde1459" CreatedDate="08/14/20, 13:18:06" DropFrame="false" Duration="7552742400000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Владислав Овчинников\20200814_151735.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:26:32" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6" StartTime="0">
+    <SubClipReference ClassID="2d984b06-78de-4dda-ac32-b3e416e729e3"/>
+  </MasterClip>
+
+  <SubClip AssetName="Владик Сидит" AssetType="AssetTypeSubClip" ClassID="a47eef5c-9f18-4d3f-abb6-2ccd0099d02b" Duration="1110312403200" ImportDate="2021-10-14 10:27:43" InOutMarkerID="ffe2e942-3802-7462-bbf0-82df00000024" InPoint="3152948198400" MasterClipReference="57d0a1c7-e73e-4a0c-bfb8-42509fa1866c" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6"/>
+
+  <SubClip AssetName="Владик что-то говорит" AssetType="AssetTypeSubClip" ClassID="96ebd42f-fd70-4746-a214-f3eebf841af7" Duration="3068191526400" ImportDate="2021-10-14 10:28:34" InOutMarkerID="c02ab15f-8cc2-1eea-e44d-ee2100000024" InPoint="5424427008000" MasterClipReference="57d0a1c7-e73e-4a0c-bfb8-42509fa1866c" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6"/>
+
+  <SubClip AssetName="Владик смотрит в телефон" AssetType="AssetTypeSubClip" ClassID="cf604919-4c9d-4131-837b-318dccc2a6bd" Duration="20570444294400" ImportDate="2021-10-14 10:35:58" InOutMarkerID="c163b518-6790-88d6-d983-db7b00000024" InPoint="2076538464000" MasterClipReference="498b78d7-8ccc-4ffa-98a9-68853dd2cd39" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6"/>
+
+  <SubClip AssetName="Владик завязывает шнурки" AssetType="AssetTypeSubClip" ClassID="2d984b06-78de-4dda-ac32-b3e416e729e3" Duration="3542828889600" ImportDate="2021-10-14 10:35:25" InOutMarkerID="ea4420aa-e8f2-815a-8acb-465500000024" InPoint="169513344000" MasterClipReference="5039d03c-028a-4248-bbef-d850ccde1459" ParentClassID="1ef7133d-27de-46ec-a6df-e9aeeb45d1a6"/>
+
+  <Bin AssetName="Саня Регуш" AssetType="AssetTypeBin" ClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="be71b458-4113-4ed6-91d8-b9928706a59a"/>
+    <AssetChild ClassID="660d105f-d325-4099-917a-a75fcd29df2e"/>
+    <AssetChild ClassID="7f2fc4b7-8491-4133-94e1-65ab2692796a"/>
+    <AssetChild ClassID="99922d50-45d2-4d59-b3cb-c0c502622cb0"/>
+    <AssetChild ClassID="9a74db5d-471f-4995-8e82-b7158e313e49"/>
+    <AssetChild ClassID="b3e5e0ac-cad1-4e7d-97c3-05021acb8b92"/>
+    <AssetChild ClassID="6d651036-e90f-4901-aec6-fc55d70ffd60"/>
+    <AssetChild ClassID="08d724f1-b257-4f45-88d1-042ec33bb898"/>
+    <AssetChild ClassID="bf1b6e4b-d9c7-47ab-a7bc-6ac2032f587b"/>
+    <AssetChild ClassID="89d00b5d-34f9-48fe-b22e-758ce9dae009"/>
+    <AssetChild ClassID="43c6f0e2-4869-4986-82c1-7e44e0dbc584"/>
+    <AssetChild ClassID="aef86ebd-21f3-43b4-a8f1-384e090432d7"/>
+    <AssetChild ClassID="ed78d42a-9ae8-4214-805d-13df2687a440"/>
+    <AssetChild ClassID="07b58eca-ba1a-4836-84f7-ac294340f480"/>
+    <AssetChild ClassID="a2929996-e5bd-433b-bb6c-565f4ace8a4e"/>
+    <AssetChild ClassID="adca8650-1807-4fd4-8f88-c77776e4b096"/>
+    <AssetChild ClassID="12b2ef4c-5d45-4d9f-a54b-4cf576c9fdf3"/>
+    <AssetChild ClassID="7de12858-ff01-47b1-809b-5e632b41f28d"/>
+    <AssetChild ClassID="f698a2a5-99e7-470b-a5f2-36d1069c7197"/>
+    <AssetChild ClassID="9fc04c53-56b1-4498-8e5b-730d2343ddee"/>
+    <AssetChild ClassID="a916bf4b-9cdc-4fd1-bf72-3911d6325510"/>
+    <AssetChild ClassID="836f9b37-ac9a-44f9-84ea-ea37201ac5eb"/>
+    <AssetChild ClassID="5254f689-3333-438e-895c-af76b5e722de"/>
+    <AssetChild ClassID="c42f2d33-638b-42fb-9da3-af8ceb9b766b"/>
+    <AssetChild ClassID="2de5f2e6-94ce-44c6-8023-9d29e2c07f41"/>
+    <AssetChild ClassID="ef2ba8e6-9622-48b5-affa-31259be967f4"/>
+  </Bin>
+
+  <MasterClip AssetName="Саня ждёт документы для импотенции" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="be71b458-4113-4ed6-91d8-b9928706a59a" CreatedDate="08/20/20, 17:39:45" DropFrame="false" Duration="12929414400000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200820_193853.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:37:54" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0"/>
+
+  <MasterClip AssetName="Саня повторяет за голубями" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="660d105f-d325-4099-917a-a75fcd29df2e" CreatedDate="08/21/20, 16:34:59" DropFrame="false" Duration="35062675200000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200821_183240.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:37:57" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0"/>
+
+  <MasterClip AssetName="20200829_190601.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7f2fc4b7-8491-4133-94e1-65ab2692796a" CreatedDate="08/29/20, 17:06:34" DropFrame="false" Duration="8086176000000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200829_190601.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:37:58" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="aef86ebd-21f3-43b4-a8f1-384e090432d7"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Саня на голове арбуз" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="99922d50-45d2-4d59-b3cb-c0c502622cb0" CreatedDate="09/10/20, 16:34:28" DropFrame="false" Duration="1366452755878" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200910_183422.mp4" FrameRate="8487284198" ImportDate="2021-10-14 10:38:00" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0"/>
+
+  <MasterClip AssetName="Саня арбуз на голове" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9a74db5d-471f-4995-8e82-b7158e313e49" CreatedDate="09/10/20, 16:34:43" DropFrame="false" Duration="2328480000000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200910_183432.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:38:01" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0"/>
+
+  <MasterClip AssetName="тупой на хуй" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b3e5e0ac-cad1-4e7d-97c3-05021acb8b92" CreatedDate="09/25/20, 19:55:33" DropFrame="false" Duration="26181335980800" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20200925_215349.mp4" FrameRate="8475667200" ImportDate="2021-10-14 10:38:04" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="ed78d42a-9ae8-4214-805d-13df2687a440"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201021_211726.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="6d651036-e90f-4901-aec6-fc55d70ffd60" CreatedDate="10/21/20, 19:18:22" DropFrame="false" Duration="13979299614665" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20201021_211726.mp4" FrameRate="8498054477" ImportDate="2021-10-14 10:38:05" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="07b58eca-ba1a-4836-84f7-ac294340f480"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201103_204004.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="08d724f1-b257-4f45-88d1-042ec33bb898" CreatedDate="11/03/20, 18:44:09" DropFrame="false" Duration="61931700230400" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20201103_204004.mp4" FrameRate="8475667200" ImportDate="2021-10-14 10:38:06" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="a2929996-e5bd-433b-bb6c-565f4ace8a4e"/>
+    <SubClipReference ClassID="adca8650-1807-4fd4-8f88-c77776e4b096"/>
+    <SubClipReference ClassID="12b2ef4c-5d45-4d9f-a54b-4cf576c9fdf3"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201117_165144.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="bf1b6e4b-d9c7-47ab-a7bc-6ac2032f587b" CreatedDate="11/17/20, 14:52:23" DropFrame="false" Duration="9153043200000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20201117_165144.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:38:07" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="7de12858-ff01-47b1-809b-5e632b41f28d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201117_165451.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="89d00b5d-34f9-48fe-b22e-758ce9dae009" CreatedDate="11/17/20, 14:57:09" DropFrame="false" Duration="34699381516800" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20201117_165451.mp4" FrameRate="8475667200" ImportDate="2021-10-14 10:38:08" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="f698a2a5-99e7-470b-a5f2-36d1069c7197"/>
+    <SubClipReference ClassID="9fc04c53-56b1-4498-8e5b-730d2343ddee"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201117_165716.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="43c6f0e2-4869-4986-82c1-7e44e0dbc584" CreatedDate="11/17/20, 14:58:01" DropFrame="false" Duration="11092032000000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Саня Регуш\20201117_165716.mp4" FrameRate="8467200000" ImportDate="2021-10-14 10:38:09" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="a916bf4b-9cdc-4fd1-bf72-3911d6325510"/>
+  </MasterClip>
+
+  <SubClip AssetName="Саня отдыхает" AssetType="AssetTypeSubClip" ClassID="aef86ebd-21f3-43b4-a8f1-384e090432d7" Duration="6900768000000" ImportDate="2022-07-19 01:52:00" InOutMarkerID="9386c408-bf60-8dd6-484f-c64f00000024" InPoint="0" MasterClipReference="7f2fc4b7-8491-4133-94e1-65ab2692796a" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Ищем Дениску" AssetType="AssetTypeSubClip" ClassID="ed78d42a-9ae8-4214-805d-13df2687a440" Duration="11764226073600" ImportDate="2021-10-14 19:30:36" InOutMarkerID="d8d381c9-0d4a-1436-a6e8-549600000024" InPoint="5390524339200" MasterClipReference="b3e5e0ac-cad1-4e7d-97c3-05021acb8b92" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня Жарит палку с нуля" AssetType="AssetTypeSubClip" ClassID="07b58eca-ba1a-4836-84f7-ac294340f480" Duration="9356357979177" ImportDate="2022-07-19 01:52:01" InOutMarkerID="7e5fab5c-389f-f8f4-0483-845f00000024" InPoint="0" MasterClipReference="6d651036-e90f-4901-aec6-fc55d70ffd60" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня проходит испытания глаз" AssetType="AssetTypeSubClip" ClassID="a2929996-e5bd-433b-bb6c-565f4ace8a4e" Duration="7051755110400" ImportDate="2021-10-14 19:35:34" InOutMarkerID="0cc99acb-14b6-5094-ef76-fb8700000024" InPoint="10518302995200" MasterClipReference="08d724f1-b257-4f45-88d1-042ec33bb898" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня сидит на скамейке Великой Ботаники" AssetType="AssetTypeSubClip" ClassID="adca8650-1807-4fd4-8f88-c77776e4b096" Duration="7348403462400" ImportDate="2021-10-14 19:36:58" InOutMarkerID="9a2500a6-fd79-662a-8960-e0f300000024" InPoint="24554007878400" MasterClipReference="08d724f1-b257-4f45-88d1-042ec33bb898" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня говорит с дьяволом" AssetType="AssetTypeSubClip" ClassID="12b2ef4c-5d45-4d9f-a54b-4cf576c9fdf3" Duration="20799287308800" ImportDate="2021-10-14 19:38:45" InOutMarkerID="531fb51d-89c6-e87c-000c-2aae00000024" InPoint="33029675078400" MasterClipReference="08d724f1-b257-4f45-88d1-042ec33bb898" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня идёт срать в Jumbo" AssetType="AssetTypeSubClip" ClassID="7de12858-ff01-47b1-809b-5e632b41f28d" Duration="5537548800000" ImportDate="2022-07-19 01:52:01" InOutMarkerID="30d46e2b-4812-1c75-2712-f60a00000024" InPoint="3158265600000" MasterClipReference="bf1b6e4b-d9c7-47ab-a7bc-6ac2032f587b" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня посрал" AssetType="AssetTypeSubClip" ClassID="f698a2a5-99e7-470b-a5f2-36d1069c7197" Duration="2890202515200" ImportDate="2021-10-14 19:41:36" InOutMarkerID="da471233-c78b-146c-6fa9-4aa200000024" InPoint="14027229216000" MasterClipReference="89d00b5d-34f9-48fe-b22e-758ce9dae009" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Саня понял что его снимали когда он срал" AssetType="AssetTypeSubClip" ClassID="9fc04c53-56b1-4498-8e5b-730d2343ddee" Duration="2618981164800" ImportDate="2021-10-14 19:42:57" InOutMarkerID="038c355a-ee77-daad-e11c-a0c900000024" InPoint="31368444307200" MasterClipReference="89d00b5d-34f9-48fe-b22e-758ce9dae009" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Харе снимать тут съёмки" AssetType="AssetTypeSubClip" ClassID="a916bf4b-9cdc-4fd1-bf72-3911d6325510" Duration="8966764800000" ImportDate="2022-07-19 01:52:02" InOutMarkerID="43d1e2d3-8ab4-38f7-3b98-82fd00000024" InPoint="2125267200000" MasterClipReference="43c6f0e2-4869-4986-82c1-7e44e0dbc584" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Шила провёл ночь отлично" AssetType="AssetTypeSubClip" ClassID="836f9b37-ac9a-44f9-84ea-ea37201ac5eb" Duration="43047913708800" ImportDate="2022-08-26 10:02:55" InOutMarkerID="15cbf871-693e-9790-40d5-8a4c00000024" InPoint="0" MasterClipReference="5254f689-3333-438e-895c-af76b5e722de" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <MasterClip AssetName="Бурная ночь с Ариной" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5254f689-3333-438e-895c-af76b5e722de" CreatedDate="11/17/20, 15:23:42" DropFrame="false" Duration="43370807212022" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\20201117_172050.mp4" FrameRate="8482457894" ImportDate="2021-10-14 19:57:33" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="836f9b37-ac9a-44f9-84ea-ea37201ac5eb"/>
+  </MasterClip>
+
+  <SubClip AssetName="Сели на дорожку" AssetType="AssetTypeSubClip" ClassID="c42f2d33-638b-42fb-9da3-af8ceb9b766b" Duration="24436339200000" ImportDate="2022-07-19 01:52:02" InOutMarkerID="41f0b569-831d-0a73-b149-d48b00000024" InPoint="1752710400000" MasterClipReference="ef2ba8e6-9622-48b5-affa-31259be967f4" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <SubClip AssetName="Прощаемся с Саней" AssetType="AssetTypeSubClip" ClassID="2de5f2e6-94ce-44c6-8023-9d29e2c07f41" Duration="6367334400000" ImportDate="2022-07-19 01:52:02" InOutMarkerID="8e2e820f-f46f-02c9-5fd0-630900000024" InPoint="30083961600000" MasterClipReference="ef2ba8e6-9622-48b5-affa-31259be967f4" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e"/>
+
+  <MasterClip AssetName="Саня уехал от нас" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="ef2ba8e6-9622-48b5-affa-31259be967f4" CreatedDate="12/22/20, 06:45:46" DropFrame="false" Duration="36451296000000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\20201222_084321.mp4" FrameRate="8467200000" ImportDate="2021-10-14 19:57:34" ParentClassID="58eb6c2d-29ac-4cee-960f-94e34fbed79e" StartTime="0">
+    <SubClipReference ClassID="c42f2d33-638b-42fb-9da3-af8ceb9b766b"/>
+    <SubClipReference ClassID="2de5f2e6-94ce-44c6-8023-9d29e2c07f41"/>
+  </MasterClip>
+
+  <Bin AssetName="Юджин" AssetType="AssetTypeBin" ClassID="9115ab27-bf2c-46a7-84aa-de647cb92826" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="c51627b7-4efd-4271-90b2-73a5eb2fe3c0"/>
+    <AssetChild ClassID="7c00dd79-8718-4645-a7f1-f8dc9d9db8e2"/>
+    <AssetChild ClassID="151964ab-23bc-4528-b7cd-6bccc0f2add5"/>
+    <AssetChild ClassID="c740d469-3c90-4eeb-9b70-ac684469a72d"/>
+    <AssetChild ClassID="ff0e4c81-035f-4fb3-a1e1-bfac1241c339"/>
+    <AssetChild ClassID="518bd6b6-4226-4eaa-a800-6ce00a6e8826"/>
+    <AssetChild ClassID="bd81ffbe-61e6-4805-aa6a-ef2fec17d75f"/>
+  </Bin>
+
+  <MasterClip AssetName="У окна" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c51627b7-4efd-4271-90b2-73a5eb2fe3c0" CreatedDate="04/09/21, 11:51:04" DropFrame="false" Duration="89134214400000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Юджин\20210409_134511.mp4" FrameRate="8467200000" ImportDate="2021-10-14 19:45:06" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826" StartTime="0">
+    <SubClipReference ClassID="c740d469-3c90-4eeb-9b70-ac684469a72d"/>
+    <SubClipReference ClassID="ff0e4c81-035f-4fb3-a1e1-bfac1241c339"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Юджин завис" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7c00dd79-8718-4645-a7f1-f8dc9d9db8e2" CreatedDate="10/20/20, 18:36:59" DropFrame="false" Duration="5632908641608" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Юджин\20201020_203636.mp4" FrameRate="8483296147" ImportDate="2021-10-14 19:45:03" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826" StartTime="0">
+    <SubClipReference ClassID="518bd6b6-4226-4eaa-a800-6ce00a6e8826"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Петя играеться с Юджином" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="151964ab-23bc-4528-b7cd-6bccc0f2add5" CreatedDate="03/03/21, 18:49:19" DropFrame="false" Duration="16366513363200" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Юджин\20210303_204813.mp4" FrameRate="8475667200" ImportDate="2021-10-14 19:45:05" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826" StartTime="0">
+    <SubClipReference ClassID="bd81ffbe-61e6-4805-aa6a-ef2fec17d75f"/>
+  </MasterClip>
+
+  <SubClip AssetName="Юджин под daft punk" AssetType="AssetTypeSubClip" ClassID="c740d469-3c90-4eeb-9b70-ac684469a72d" Duration="49209723763200" ImportDate="2021-10-14 19:49:56" InOutMarkerID="314c2a24-bcc0-0bef-697b-919c00000024" InPoint="13349175840000" MasterClipReference="c51627b7-4efd-4271-90b2-73a5eb2fe3c0" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826"/>
+
+  <SubClip AssetName="Юджин крутой" AssetType="AssetTypeSubClip" ClassID="ff0e4c81-035f-4fb3-a1e1-bfac1241c339" Duration="19672023571200" ImportDate="2021-10-14 19:54:21" InOutMarkerID="fa123a7f-eba5-e751-f85b-a82f00000024" InPoint="69466568371200" MasterClipReference="c51627b7-4efd-4271-90b2-73a5eb2fe3c0" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826"/>
+
+  <SubClip AssetName="Юджин.exe не отвечает" AssetType="AssetTypeSubClip" ClassID="518bd6b6-4226-4eaa-a800-6ce00a6e8826" Duration="5636318688000" ImportDate="2021-10-14 19:55:25" InOutMarkerID="9fa976f0-1ef9-828c-5606-b23200000024" InPoint="0" MasterClipReference="7c00dd79-8718-4645-a7f1-f8dc9d9db8e2" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826"/>
+
+  <SubClip AssetName="Играет пинает" AssetType="AssetTypeSubClip" ClassID="bd81ffbe-61e6-4805-aa6a-ef2fec17d75f" Duration="16112243347200" ImportDate="2021-10-14 19:55:55" InOutMarkerID="67a37139-8847-2f9f-9497-b79900000024" InPoint="254270016000" MasterClipReference="151964ab-23bc-4528-b7cd-6bccc0f2add5" ParentClassID="9115ab27-bf2c-46a7-84aa-de647cb92826"/>
+
+  <Bin AssetName="Albisoara" AssetType="AssetTypeBin" ClassID="5f3de630-6755-49a1-a9fe-e033322bb244" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="642c34ba-6a9e-4fb7-87ce-bd4a5cfde2e0"/>
+    <AssetChild ClassID="8ee3f370-e187-41c0-9162-55c290473b0a"/>
+    <AssetChild ClassID="10c15fde-eab8-4931-a086-176d7e06b6a5"/>
+    <AssetChild ClassID="9aa1423a-5d53-4409-8fb0-c266e6e18a68"/>
+    <AssetChild ClassID="6718c4ad-75e4-48aa-9593-5ff969204f4b"/>
+    <AssetChild ClassID="1d836432-6a6f-4a76-b455-e0c838f79052"/>
+    <AssetChild ClassID="a0ae6cdd-182c-4b24-9e15-ed478e1e1a56"/>
+    <AssetChild ClassID="da8e5849-ab45-4f6a-85cd-5c8c58e38108"/>
+    <AssetChild ClassID="3400b357-a117-4893-ac5d-b2493aeb6c8e"/>
+    <AssetChild ClassID="e6a8eb82-b03b-490b-92e4-d0c5323ab872"/>
+    <AssetChild ClassID="becee313-bef3-4e7b-9390-5b7679ce598e"/>
+    <AssetChild ClassID="c0e0a307-f8e9-4f5b-a1b6-6e736e07ed19"/>
+    <AssetChild ClassID="725363b8-be4d-4fd2-8360-25063c0af0b2"/>
+    <AssetChild ClassID="7aca8385-a402-4e4d-af0f-7119b632c503"/>
+    <AssetChild ClassID="a6dae410-16f3-40c1-8129-03889ed40284"/>
+    <AssetChild ClassID="e23644c5-cabe-47ec-b00c-3dc634510f7b"/>
+    <AssetChild ClassID="2c293ae2-57a7-4dec-ba38-584d48ce9fd7"/>
+    <AssetChild ClassID="17b02f08-c83b-4907-91ba-03c014d6a956"/>
+    <AssetChild ClassID="ebcc4930-525a-4d37-9b5a-768567b8eca1"/>
+    <AssetChild ClassID="baf6c155-3b7f-4fcb-a812-e3eda03b012d"/>
+    <AssetChild ClassID="80cf91c3-8acb-4f63-b749-a0e9df38b686"/>
+    <AssetChild ClassID="c123d391-f0f4-4f78-996d-9c8aea39638c"/>
+    <AssetChild ClassID="0b74b101-3f0c-4151-b89c-82aa4e4aca07"/>
+    <AssetChild ClassID="f5e8c62f-2314-46b2-9912-0887fce11cfb"/>
+    <AssetChild ClassID="5d905896-9adb-46c1-b701-df1510adc383"/>
+    <AssetChild ClassID="c5dffd28-a1db-4ccf-8e34-3e37aa174560"/>
+    <AssetChild ClassID="e4049866-896c-458c-982f-2cef3bd7793e"/>
+    <AssetChild ClassID="b2e15158-3b76-42d2-a2d0-a6cfd8b2aa73"/>
+    <AssetChild ClassID="467696e9-17a3-4dc7-9cbd-9f0ae8fab42f"/>
+    <AssetChild ClassID="d49c6fe3-5ea6-418d-979d-73ae6813e333"/>
+    <AssetChild ClassID="21eb4d94-a731-4ccd-91ba-2b02dce0bd8c"/>
+    <AssetChild ClassID="50646d28-c809-4ea9-b19f-bba11ff8a38b"/>
+    <AssetChild ClassID="f0086017-7265-4336-913d-31bd12c81e14"/>
+    <AssetChild ClassID="8d52b22c-9d78-4df7-b1c2-145e1fbc8a67"/>
+    <AssetChild ClassID="f7e12110-3ba7-44e6-932e-9dbdb773e5c2"/>
+    <AssetChild ClassID="99c1fdfb-cfef-41f3-8670-07401e879b06"/>
+    <AssetChild ClassID="982ad837-edbc-432f-8744-d015ff38ea1c"/>
+    <AssetChild ClassID="c893ed8b-ae36-458a-b2b2-fa45f43e1958"/>
+    <AssetChild ClassID="3389067c-8736-4ebb-9e88-aeda5e12260a"/>
+    <AssetChild ClassID="fe62121d-8ac4-46d8-9974-673f70b48a70"/>
+    <AssetChild ClassID="407b4509-6a81-4782-a518-08e79b88b669"/>
+    <AssetChild ClassID="c5d93104-7e2e-462f-84fb-5a8e1c1b0ca5"/>
+    <AssetChild ClassID="2eda1c4c-014a-48d3-8bb0-5837374a84c3"/>
+    <AssetChild ClassID="21c0e694-0320-441a-9442-aca5fec6079a"/>
+    <AssetChild ClassID="15b13d3d-d3e4-4811-83e8-eda68b0e217d"/>
+    <AssetChild ClassID="5e871110-1acb-4033-bc51-4deb39bfc6bc"/>
+    <AssetChild ClassID="b825a7e0-fde5-4d5c-baa4-961adde64471"/>
+    <AssetChild ClassID="57247783-c19e-4a7e-a797-e8dab04cd055"/>
+    <AssetChild ClassID="8a0da8ee-33f8-47ad-bfed-e39228a98139"/>
+  </Bin>
+
+  <MasterClip AssetName="Шила дед" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="642c34ba-6a9e-4fb7-87ce-bd4a5cfde2e0" CreatedDate="08/25/20, 20:06:18" DropFrame="false" Duration="4072723200000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20200825_220600.mp4" FrameRate="8467200000" ImportDate="2021-10-14 20:09:21" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="2c293ae2-57a7-4dec-ba38-584d48ce9fd7"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Шила курит с Ваней бля" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8ee3f370-e187-41c0-9162-55c290473b0a" CreatedDate="08/25/20, 20:08:52" DropFrame="false" Duration="37386168019200" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20200825_220624.mp4" FrameRate="8475667200" ImportDate="2021-10-14 20:09:23" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="17b02f08-c83b-4907-91ba-03c014d6a956"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Обучение для жизни" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="10c15fde-eab8-4931-a086-176d7e06b6a5" CreatedDate="08/25/20, 20:10:42" DropFrame="false" Duration="25494806937600" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20200825_220901.mp4" FrameRate="8475667200" ImportDate="2021-10-14 20:09:24" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="ebcc4930-525a-4d37-9b5a-768567b8eca1"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200829_215853.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9aa1423a-5d53-4409-8fb0-c266e6e18a68" CreatedDate="08/29/20, 20:02:15" DropFrame="false" Duration="50921740800000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20200829_215853.mp4" FrameRate="8467200000" ImportDate="2021-10-14 20:09:26" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="baf6c155-3b7f-4fcb-a812-e3eda03b012d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201013_212531.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="6718c4ad-75e4-48aa-9593-5ff969204f4b" CreatedDate="10/13/20, 19:30:48" DropFrame="false" Duration="79739077017600" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20201013_212531.mp4" FrameRate="8475667200" ImportDate="2021-10-14 20:09:27" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="80cf91c3-8acb-4f63-b749-a0e9df38b686"/>
+    <SubClipReference ClassID="c123d391-f0f4-4f78-996d-9c8aea39638c"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Ваня показывает Шиле пизду" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="1d836432-6a6f-4a76-b455-e0c838f79052" CreatedDate="10/13/20, 19:31:47" DropFrame="false" Duration="6181096760812" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20201013_213121.mp4" FrameRate="8561075846" ImportDate="2021-10-14 20:09:29" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="0b74b101-3f0c-4151-b89c-82aa4e4aca07"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201023_213824.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a0ae6cdd-182c-4b24-9e15-ed478e1e1a56" CreatedDate="10/23/20, 19:39:17" DropFrame="false" Duration="13264419168000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20201023_213824.mp4" FrameRate="8475667200" ImportDate="2021-10-14 20:09:30" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="f5e8c62f-2314-46b2-9912-0887fce11cfb"/>
+    <SubClipReference ClassID="5d905896-9adb-46c1-b701-df1510adc383"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201023_214049.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="da8e5849-ab45-4f6a-85cd-5c8c58e38108" CreatedDate="10/23/20, 19:41:15" DropFrame="false" Duration="6291129600000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20201023_214049.mp4" FrameRate="8467200000" ImportDate="2021-10-14 20:09:32" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="c5dffd28-a1db-4ccf-8e34-3e37aa174560"/>
+  </MasterClip>
+
+  <MasterClip AssetName="Бля помогите Лос Анджелес" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="3400b357-a117-4893-ac5d-b2493aeb6c8e" CreatedDate="08/10/21, 11:20:37" DropFrame="false" Duration="10088653288328" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\2021-03-10 057.mp4" FrameRate="8463635309" ImportDate="2021-10-14 20:09:35" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="e4049866-896c-458c-982f-2cef3bd7793e"/>
+    <SubClipReference ClassID="b2e15158-3b76-42d2-a2d0-a6cfd8b2aa73"/>
+  </MasterClip>
+
+  <MasterClip AssetName="2021-03-10 058.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e6a8eb82-b03b-490b-92e4-d0c5323ab872" CreatedDate="08/10/21, 12:29:25" DropFrame="false" Duration="151465562599580" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\2021-03-10 058.mp4" FrameRate="8464600570" ImportDate="2021-10-14 20:10:06" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="467696e9-17a3-4dc7-9cbd-9f0ae8fab42f"/>
+    <SubClipReference ClassID="d49c6fe3-5ea6-418d-979d-73ae6813e333"/>
+    <SubClipReference ClassID="21eb4d94-a731-4ccd-91ba-2b02dce0bd8c"/>
+    <SubClipReference ClassID="50646d28-c809-4ea9-b19f-bba11ff8a38b"/>
+    <SubClipReference ClassID="f0086017-7265-4336-913d-31bd12c81e14"/>
+    <SubClipReference ClassID="8d52b22c-9d78-4df7-b1c2-145e1fbc8a67"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210628_183307.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="becee313-bef3-4e7b-9390-5b7679ce598e" CreatedDate="06/28/21, 16:33:56" DropFrame="false" Duration="12009934547490" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210628_183307.mp4" FrameRate="8463660710" ImportDate="2021-10-14 20:10:29" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="f7e12110-3ba7-44e6-932e-9dbdb773e5c2"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210628_195259.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c0e0a307-f8e9-4f5b-a1b6-6e736e07ed19" CreatedDate="06/28/21, 18:03:16" DropFrame="false" Duration="156695744110826" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210628_195259.mp4" FrameRate="8463635309" ImportDate="2021-10-14 20:11:04" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="99c1fdfb-cfef-41f3-8670-07401e879b06"/>
+    <SubClipReference ClassID="982ad837-edbc-432f-8744-d015ff38ea1c"/>
+    <SubClipReference ClassID="c893ed8b-ae36-458a-b2b2-fa45f43e1958"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210628_203933.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="725363b8-be4d-4fd2-8360-25063c0af0b2" CreatedDate="06/28/21, 18:54:04" DropFrame="false" Duration="221019372459226" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210628_203933.mp4" FrameRate="8463635309" ImportDate="2021-10-14 20:12:01" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="3389067c-8736-4ebb-9e88-aeda5e12260a"/>
+    <SubClipReference ClassID="fe62121d-8ac4-46d8-9974-673f70b48a70"/>
+    <SubClipReference ClassID="407b4509-6a81-4782-a518-08e79b88b669"/>
+    <SubClipReference ClassID="c5d93104-7e2e-462f-84fb-5a8e1c1b0ca5"/>
+    <SubClipReference ClassID="2eda1c4c-014a-48d3-8bb0-5837374a84c3"/>
+    <SubClipReference ClassID="21c0e694-0320-441a-9442-aca5fec6079a"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210927_012817.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7aca8385-a402-4e4d-af0f-7119b632c503" CreatedDate="09/26/21, 23:29:12" DropFrame="false" Duration="13177961028474" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210927_012817.mp4" FrameRate="8496428774" ImportDate="2021-10-14 20:13:50" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="15b13d3d-d3e4-4811-83e8-eda68b0e217d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210927_012916.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a6dae410-16f3-40c1-8129-03889ed40284" CreatedDate="09/26/21, 23:33:20" DropFrame="false" Duration="61750730558672" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210927_012916.mp4" FrameRate="8472932294" ImportDate="2021-10-14 20:13:58" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="5e871110-1acb-4033-bc51-4deb39bfc6bc"/>
+    <SubClipReference ClassID="b825a7e0-fde5-4d5c-baa4-961adde64471"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210927_013437.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e23644c5-cabe-47ec-b00c-3dc634510f7b" CreatedDate="09/26/21, 23:39:39" DropFrame="false" Duration="76595888516728" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Albisoara\20210927_013437.mp4" FrameRate="8469249062" ImportDate="2021-10-14 20:14:16" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244" StartTime="0">
+    <SubClipReference ClassID="57247783-c19e-4a7e-a797-e8dab04cd055"/>
+    <SubClipReference ClassID="8a0da8ee-33f8-47ad-bfed-e39228a98139"/>
+  </MasterClip>
+
+  <SubClip AssetName="Шила ругается" AssetType="AssetTypeSubClip" ClassID="2c293ae2-57a7-4dec-ba38-584d48ce9fd7" Duration="4076795923200" ImportDate="2021-10-14 20:25:30" InOutMarkerID="65428c4f-c2e3-c737-2a61-f66a00000024" InPoint="0" MasterClipReference="642c34ba-6a9e-4fb7-87ce-bd4a5cfde2e0" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Шила курит с Ваней" AssetType="AssetTypeSubClip" ClassID="17b02f08-c83b-4907-91ba-03c014d6a956" Duration="37386168019200" ImportDate="2021-10-14 20:26:59" InOutMarkerID="2888cb9d-4c23-256b-c43a-44f700000024" InPoint="0" MasterClipReference="8ee3f370-e187-41c0-9162-55c290473b0a" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Саня ушатал Ваню" AssetType="AssetTypeSubClip" ClassID="ebcc4930-525a-4d37-9b5a-768567b8eca1" Duration="12467706451200" ImportDate="2022-08-26 10:02:55" InOutMarkerID="12bd8b2d-fff5-b713-d800-4a1f00000024" InPoint="6390653068800" MasterClipReference="10c15fde-eab8-4931-a086-176d7e06b6a5" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Что смущает Саню" AssetType="AssetTypeSubClip" ClassID="baf6c155-3b7f-4fcb-a812-e3eda03b012d" Duration="19753977600000" ImportDate="2022-07-19 01:52:04" InOutMarkerID="6146faaf-4b2e-e493-df66-d21800000024" InPoint="0" MasterClipReference="9aa1423a-5d53-4409-8fb0-c266e6e18a68" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Ваня с Шилой Курят у букурии" AssetType="AssetTypeSubClip" ClassID="80cf91c3-8acb-4f63-b749-a0e9df38b686" Duration="30156423897600" ImportDate="2021-10-14 20:38:01" InOutMarkerID="b9bc1a1c-1d72-ea7c-d4ae-0ee000000024" InPoint="0" MasterClipReference="6718c4ad-75e4-48aa-9593-5ff969204f4b" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Ваня орёт на камеру" AssetType="AssetTypeSubClip" ClassID="c123d391-f0f4-4f78-996d-9c8aea39638c" Duration="47234893305600" ImportDate="2021-10-14 20:38:11" InOutMarkerID="5372c906-5249-3063-1006-f0f900000024" InPoint="32504183712000" MasterClipReference="6718c4ad-75e4-48aa-9593-5ff969204f4b" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Ване нужна помощь Регуша" AssetType="AssetTypeSubClip" ClassID="0b74b101-3f0c-4151-b89c-82aa4e4aca07" Duration="6178761388800" ImportDate="2021-10-14 23:25:15" InOutMarkerID="403e69fc-1582-88e6-c385-472f00000024" InPoint="0" MasterClipReference="1d836432-6a6f-4a76-b455-e0c838f79052" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима ссыт на хлебный завод" AssetType="AssetTypeSubClip" ClassID="f5e8c62f-2314-46b2-9912-0887fce11cfb" Duration="9035061235200" ImportDate="2021-10-14 23:26:53" InOutMarkerID="b38aadfc-9287-f8e7-b873-e04c00000024" InPoint="0" MasterClipReference="a0ae6cdd-182c-4b24-9e15-ed478e1e1a56" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Диму ругают за ночные гулянки" AssetType="AssetTypeSubClip" ClassID="5d905896-9adb-46c1-b701-df1510adc383" Duration="2746116172800" ImportDate="2021-10-14 23:27:42" InOutMarkerID="5e1f4f7d-084e-f33b-e7dd-300f00000024" InPoint="10196227641600" MasterClipReference="a0ae6cdd-182c-4b24-9e15-ed478e1e1a56" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима закинул Сане тапок" AssetType="AssetTypeSubClip" ClassID="c5dffd28-a1db-4ccf-8e34-3e37aa174560" Duration="6181056000000" ImportDate="2022-07-19 01:52:04" InOutMarkerID="08b0a4f9-fbe1-23f3-90cc-f26b00000024" InPoint="110073600000" MasterClipReference="da8e5849-ab45-4f6a-85cd-5c8c58e38108" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Баскетбольчик" AssetType="AssetTypeSubClip" ClassID="e4049866-896c-458c-982f-2cef3bd7793e" Duration="1788365779200" ImportDate="2021-10-14 23:29:18" InOutMarkerID="42a10350-4fe4-1ab2-3b53-5b7800000024" InPoint="0" MasterClipReference="3400b357-a117-4893-ac5d-b2493aeb6c8e" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Бля помогите Лос Анджелес " AssetType="AssetTypeSubClip" ClassID="b2e15158-3b76-42d2-a2d0-a6cfd8b2aa73" Duration="4068320256000" ImportDate="2021-10-14 23:30:21" InOutMarkerID="11ae1d70-57c8-8fa3-6117-450d00000024" InPoint="6017723712000" MasterClipReference="3400b357-a117-4893-ac5d-b2493aeb6c8e" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Владик не хочет быть звездой " AssetType="AssetTypeSubClip" ClassID="467696e9-17a3-4dc7-9cbd-9f0ae8fab42f" Duration="5561242574490" ImportDate="2022-07-19 01:52:04" InOutMarkerID="02401eac-f32e-3cdc-89e4-492900000024" InPoint="8422277567150" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима" AssetType="AssetTypeSubClip" ClassID="d49c6fe3-5ea6-418d-979d-73ae6813e333" Duration="1489769700320" ImportDate="2022-07-19 01:52:04" InOutMarkerID="226c56c0-a711-ae76-df38-831400000024" InPoint="15676440255640" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима натягивает барсетку" AssetType="AssetTypeSubClip" ClassID="21eb4d94-a731-4ccd-91ba-2b02dce0bd8c" Duration="11164808151830" ImportDate="2022-07-19 01:52:04" InOutMarkerID="bd1431c1-14f8-aa08-e5ec-009000000024" InPoint="39902127086980" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Владик азартно пъёт воду" AssetType="AssetTypeSubClip" ClassID="50646d28-c809-4ea9-b19f-bba11ff8a38b" Duration="14804586396930" ImportDate="2022-07-19 01:52:04" InOutMarkerID="dfd87a3c-0085-8b1a-144f-790e00000024" InPoint="70637091756650" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Владик в стратосфере" AssetType="AssetTypeSubClip" ClassID="f0086017-7265-4336-913d-31bd12c81e14" Duration="19671731724680" ImportDate="2022-07-19 01:52:04" InOutMarkerID="6d23c30a-df7a-d610-0f3f-9d3300000024" InPoint="105739790320440" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Диму нужно стабилизировать" AssetType="AssetTypeSubClip" ClassID="8d52b22c-9d78-4df7-b1c2-145e1fbc8a67" Duration="5434273565940" ImportDate="2022-07-19 01:52:04" InOutMarkerID="e665c20a-90cd-3158-a8d6-6c8c00000024" InPoint="135230458706320" MasterClipReference="e6a8eb82-b03b-490b-92e4-d0c5323ab872" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя кормит людей" AssetType="AssetTypeSubClip" ClassID="f7e12110-3ba7-44e6-932e-9dbdb773e5c2" Duration="4401103569200" ImportDate="2022-07-19 01:52:05" InOutMarkerID="18cb1504-3311-a9c8-a0a3-881c00000024" InPoint="3495491873230" MasterClipReference="becee313-bef3-4e7b-9390-5b7679ce598e" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="потом назову" AssetType="AssetTypeSubClip" ClassID="99c1fdfb-cfef-41f3-8670-07401e879b06" Duration="34480850248866" ImportDate="2022-07-19 01:52:05" InOutMarkerID="7e8c7bca-0233-90ef-411c-ab0200000024" InPoint="0" MasterClipReference="c0e0a307-f8e9-4f5b-a1b6-6e736e07ed19" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя рассказывает историю" AssetType="AssetTypeSubClip" ClassID="982ad837-edbc-432f-8744-d015ff38ea1c" Duration="49833884699392" ImportDate="2022-08-26 10:02:55" InOutMarkerID="4b1b3b2f-76b8-6255-6af6-2c8a00000024" InPoint="49563048369504" MasterClipReference="c0e0a307-f8e9-4f5b-a1b6-6e736e07ed19" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="История от Пети про гелик" AssetType="AssetTypeSubClip" ClassID="c893ed8b-ae36-458a-b2b2-fa45f43e1958" Duration="23791278853599" ImportDate="2022-07-19 01:52:05" InOutMarkerID="967cbf5c-2a33-4cc5-aeaf-90ae00000024" InPoint="101131978307241" MasterClipReference="c0e0a307-f8e9-4f5b-a1b6-6e736e07ed19" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима лахапедина" AssetType="AssetTypeSubClip" ClassID="3389067c-8736-4ebb-9e88-aeda5e12260a" Duration="6627026446947" ImportDate="2022-07-19 01:52:05" InOutMarkerID="5505fe7b-8184-c0e3-7e64-884800000024" InPoint="14396643660609" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя ебанул Диме по подмышке" AssetType="AssetTypeSubClip" ClassID="fe62121d-8ac4-46d8-9974-673f70b48a70" Duration="11578253102712" ImportDate="2022-07-19 01:52:05" InOutMarkerID="6aff0fc0-eac7-5192-ad73-4a8c00000024" InPoint="25331660479837" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Дима думает Сова" AssetType="AssetTypeSubClip" ClassID="407b4509-6a81-4782-a518-08e79b88b669" Duration="7820399025516" ImportDate="2022-07-19 01:52:05" InOutMarkerID="2e943330-2979-392f-9963-c09a00000024" InPoint="51035720913270" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Мультик приколы" AssetType="AssetTypeSubClip" ClassID="c5d93104-7e2e-462f-84fb-5a8e1c1b0ca5" Duration="35606513744963" ImportDate="2022-07-19 01:52:05" InOutMarkerID="050b3719-ec86-477a-297e-653600000024" InPoint="65229237326463" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Папа Американно" AssetType="AssetTypeSubClip" ClassID="2eda1c4c-014a-48d3-8bb0-5837374a84c3" Duration="7938889919842" ImportDate="2022-07-19 01:52:05" InOutMarkerID="b53d2f38-512f-a327-745d-bf9e00000024" InPoint="144178027488815" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя купит членъ" AssetType="AssetTypeSubClip" ClassID="21c0e694-0320-441a-9442-aca5fec6079a" Duration="1134127131406" ImportDate="2022-08-26 10:02:56" InOutMarkerID="d18e61ac-7157-dc89-7131-cca200000024" InPoint="209576537521458" MasterClipReference="725363b8-be4d-4fd2-8360-25063c0af0b2" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петька домаший" AssetType="AssetTypeSubClip" ClassID="15b13d3d-d3e4-4811-83e8-eda68b0e217d" Duration="3279621506764" ImportDate="2022-08-26 10:02:56" InOutMarkerID="06a9ad44-8421-a832-07e8-339f00000024" InPoint="0" MasterClipReference="7aca8385-a402-4e4d-af0f-7119b632c503" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя курид задом" AssetType="AssetTypeSubClip" ClassID="5e871110-1acb-4033-bc51-4deb39bfc6bc" Duration="5117651105576" ImportDate="2022-07-19 01:52:05" InOutMarkerID="eb07eb06-2318-99b6-020f-cde400000024" InPoint="0" MasterClipReference="a6dae410-16f3-40c1-8129-03889ed40284" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя прописывает срача" AssetType="AssetTypeSubClip" ClassID="b825a7e0-fde5-4d5c-baa4-961adde64471" Duration="23597116438790" ImportDate="2022-07-19 01:52:05" InOutMarkerID="74c2d61a-6f35-aa10-c5b9-c6dd00000024" InPoint="21919475844578" MasterClipReference="a6dae410-16f3-40c1-8129-03889ed40284" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="A PRI ORI" AssetType="AssetTypeSubClip" ClassID="57247783-c19e-4a7e-a797-e8dab04cd055" Duration="39195684658936" ImportDate="2022-07-19 01:52:05" InOutMarkerID="b96cae3a-1ac3-a27c-45e6-dbb900000024" InPoint="0" MasterClipReference="e23644c5-cabe-47ec-b00c-3dc634510f7b" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <SubClip AssetName="Петя с камнем" AssetType="AssetTypeSubClip" ClassID="8a0da8ee-33f8-47ad-bfed-e39228a98139" Duration="8164356095768" ImportDate="2022-08-26 10:02:56" InOutMarkerID="25e1416f-6b20-abd7-a589-83a000000024" InPoint="48469512381826" MasterClipReference="e23644c5-cabe-47ec-b00c-3dc634510f7b" ParentClassID="5f3de630-6755-49a1-a9fe-e033322bb244"/>
+
+  <Bin AssetName="Подборка" AssetType="AssetTypeBin" ClassID="aced5faa-8110-4ca3-a2ce-957d210c4b2a" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="c6a405db-97be-4b5a-ab66-8d8a2e054ad8"/>
+    <AssetChild ClassID="4db7cd32-f9c0-4c25-b69a-fb54a26b1f44"/>
+  </Bin>
+
+  <MasterClip AssetName="Святая оплата" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c6a405db-97be-4b5a-ab66-8d8a2e054ad8" CreatedDate="01/10/21, 18:12:59" DropFrame="false" Duration="2932580851200" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\20210110_201247.mp4" FrameRate="8475667200" ImportDate="2021-10-14 19:57:34" ParentClassID="aced5faa-8110-4ca3-a2ce-957d210c4b2a" StartTime="0">
+    <SubClipReference ClassID="4db7cd32-f9c0-4c25-b69a-fb54a26b1f44"/>
+  </MasterClip>
+
+  <SubClip AssetName="Бог в помощь" AssetType="AssetTypeSubClip" ClassID="4db7cd32-f9c0-4c25-b69a-fb54a26b1f44" Duration="2347759814400" ImportDate="2021-10-14 20:08:16" InOutMarkerID="46f44125-4b4a-ae84-bf8c-19d700000024" InPoint="491588697600" MasterClipReference="c6a405db-97be-4b5a-ab66-8d8a2e054ad8" ParentClassID="aced5faa-8110-4ca3-a2ce-957d210c4b2a"/>
+
+  <Bin AssetName="Chill_Zone_02" AssetType="AssetTypeBin" ClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="85e0a674-6ac5-48ff-ba7b-df1892f63255"/>
+    <AssetChild ClassID="6b18fa2e-8b0d-4a30-a462-b5ac36282d82"/>
+    <AssetChild ClassID="a6337ae1-75f7-4c4a-adf5-29ddd6bdd18d"/>
+    <AssetChild ClassID="09098352-5386-4840-9145-d22582e393c9"/>
+    <AssetChild ClassID="4f6db9fa-41a4-4718-a3cb-3109a6fb6583"/>
+    <AssetChild ClassID="cb4d2710-7aa2-4626-aff0-66590b1702aa"/>
+    <AssetChild ClassID="089a1a70-ed31-4bfd-9400-27d53dda3735"/>
+    <AssetChild ClassID="df61bf96-b9d2-4946-92a7-2c92dcf126af"/>
+    <AssetChild ClassID="0e3abdec-70ac-4b93-bd06-66234b56f45b"/>
+  </Bin>
+
+  <MasterClip AssetName="20200713_193842.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="85e0a674-6ac5-48ff-ba7b-df1892f63255" CreatedDate="07/13/20, 17:42:34" DropFrame="false" Duration="58847040000000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_02\20200713_193842.mp4" FrameRate="8467200000" ImportDate="2021-10-15 02:25:40" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445" StartTime="0">
+    <SubClipReference ClassID="09098352-5386-4840-9145-d22582e393c9"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200713_194241.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="6b18fa2e-8b0d-4a30-a462-b5ac36282d82" CreatedDate="07/13/20, 17:47:18" DropFrame="false" Duration="70133817600000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_02\20200713_194241.mp4" FrameRate="8467200000" ImportDate="2021-10-15 02:25:42" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445" StartTime="0">
+    <SubClipReference ClassID="4f6db9fa-41a4-4718-a3cb-3109a6fb6583"/>
+    <SubClipReference ClassID="cb4d2710-7aa2-4626-aff0-66590b1702aa"/>
+    <SubClipReference ClassID="089a1a70-ed31-4bfd-9400-27d53dda3735"/>
+    <SubClipReference ClassID="df61bf96-b9d2-4946-92a7-2c92dcf126af"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200713_194826.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a6337ae1-75f7-4c4a-adf5-29ddd6bdd18d" CreatedDate="07/13/20, 17:49:19" DropFrame="false" Duration="13310438400000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_02\20200713_194826.mp4" FrameRate="8467200000" ImportDate="2021-10-15 02:25:43" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445" StartTime="0">
+    <SubClipReference ClassID="0e3abdec-70ac-4b93-bd06-66234b56f45b"/>
+  </MasterClip>
+
+  <SubClip AssetName="Дима занимается сексом с Соней" AssetType="AssetTypeSubClip" ClassID="09098352-5386-4840-9145-d22582e393c9" Duration="10160640000000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="78beb871-04b2-29f6-1531-103200000024" InPoint="48313843200000" MasterClipReference="85e0a674-6ac5-48ff-ba7b-df1892f63255" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <SubClip AssetName="Ваня ебашит в камеру хуем" AssetType="AssetTypeSubClip" ClassID="4f6db9fa-41a4-4718-a3cb-3109a6fb6583" Duration="2988921600000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8b08db1e-3de7-f0a6-8120-99eb00000024" InPoint="0" MasterClipReference="6b18fa2e-8b0d-4a30-a462-b5ac36282d82" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <SubClip AssetName="Дима всегда поможет блять" AssetType="AssetTypeSubClip" ClassID="cb4d2710-7aa2-4626-aff0-66590b1702aa" Duration="6181056000000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="c444a3e8-5117-d410-4295-572f00000024" InPoint="3590092800000" MasterClipReference="6b18fa2e-8b0d-4a30-a462-b5ac36282d82" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <SubClip AssetName="Ваня с Димой тащят дверь" AssetType="AssetTypeSubClip" ClassID="089a1a70-ed31-4bfd-9400-27d53dda3735" Duration="11828678400000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="395e083b-4279-6f40-e835-88e100000024" InPoint="11828678400000" MasterClipReference="6b18fa2e-8b0d-4a30-a462-b5ac36282d82" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <SubClip AssetName="Ваня Жылистый хуй" AssetType="AssetTypeSubClip" ClassID="df61bf96-b9d2-4946-92a7-2c92dcf126af" Duration="6333465600000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="1fec6a91-5be2-5564-7a98-89cd00000024" InPoint="32378572800000" MasterClipReference="6b18fa2e-8b0d-4a30-a462-b5ac36282d82" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <SubClip AssetName="Дима в репке" AssetType="AssetTypeSubClip" ClassID="0e3abdec-70ac-4b93-bd06-66234b56f45b" Duration="11574662400000" ImportDate="2022-07-19 01:52:06" InOutMarkerID="12a8e3ed-0d3d-bd15-ce7e-fb4100000024" InPoint="0" MasterClipReference="a6337ae1-75f7-4c4a-adf5-29ddd6bdd18d" ParentClassID="76c6fcf5-2b3b-4d53-be21-b90e8f273445"/>
+
+  <Bin AssetName="Chill_Zone_03" AssetType="AssetTypeBin" ClassID="e4caa634-9164-4a35-8eb0-971a8195d830" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="15df55d3-fec5-40c0-8b74-80a873d0401d"/>
+    <AssetChild ClassID="fc1c6c88-fa1a-4c71-ac26-4928744cdbd2"/>
+    <AssetChild ClassID="a8ce829f-f5d5-4df5-b370-f643875a6b96"/>
+    <AssetChild ClassID="66a2b329-587a-4a27-b049-273a8bd31ffa"/>
+    <AssetChild ClassID="5db2d5a9-87ed-4171-9bd7-ee39a98dbf3e"/>
+    <AssetChild ClassID="4608cd04-8ab7-4626-b7f7-06ddec0d83f9"/>
+    <AssetChild ClassID="0b52ab9a-1ef7-406e-8bb9-d040322790ea"/>
+    <AssetChild ClassID="67fbf4d6-1011-4a1d-a154-f2ad33f67977"/>
+    <AssetChild ClassID="3143d9d7-f0f0-4e1d-8748-ad4bac2fc640"/>
+    <AssetChild ClassID="1afc5fd2-6b31-4f1f-a1ba-ca60c96edd19"/>
+  </Bin>
+
+  <MasterClip AssetName="20200714_183234.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="15df55d3-fec5-40c0-8b74-80a873d0401d" CreatedDate="10/15/21, 14:43:31" DropFrame="false" Duration="8755076045122" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_03\20200714_183234.mpg" FrameRate="8467191533" ImportDate="2021-10-15 14:43:42" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830" StartTime="0">
+    <SubClipReference ClassID="4608cd04-8ab7-4626-b7f7-06ddec0d83f9"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200714_194017.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="fc1c6c88-fa1a-4c71-ac26-4928744cdbd2" CreatedDate="10/15/21, 14:43:31" DropFrame="false" Duration="20304325296134" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_03\20200714_194017.mpg" FrameRate="8467191533" ImportDate="2021-10-15 14:43:43" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830" StartTime="0">
+    <SubClipReference ClassID="0b52ab9a-1ef7-406e-8bb9-d040322790ea"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200714_194308.mp4" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a8ce829f-f5d5-4df5-b370-f643875a6b96" CreatedDate="10/15/21, 14:43:33" DropFrame="false" Duration="71632440369180" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_03\20200714_194308.mpg" FrameRate="8467191533" ImportDate="2021-10-15 14:43:43" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830" StartTime="0">
+    <SubClipReference ClassID="67fbf4d6-1011-4a1d-a154-f2ad33f67977"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200714_194754.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="66a2b329-587a-4a27-b049-273a8bd31ffa" CreatedDate="10/15/21, 14:43:38" DropFrame="false" Duration="30735905264790" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_03\20200714_194754.mpg" FrameRate="8467191533" ImportDate="2021-10-15 14:43:44" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830" StartTime="0">
+    <SubClipReference ClassID="3143d9d7-f0f0-4e1d-8748-ad4bac2fc640"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200714_195550.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5db2d5a9-87ed-4171-9bd7-ee39a98dbf3e" CreatedDate="10/15/21, 14:43:40" DropFrame="false" Duration="21625207175282" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_03\20200714_195550.mpg" FrameRate="8467191533" ImportDate="2021-10-15 14:43:45" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830" StartTime="0">
+    <SubClipReference ClassID="1afc5fd2-6b31-4f1f-a1ba-ca60c96edd19"/>
+  </MasterClip>
+
+  <SubClip AssetName="Титановый сплав" AssetType="AssetTypeSubClip" ClassID="4608cd04-8ab7-4626-b7f7-06ddec0d83f9" Duration="8280913319274" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8b0fbe42-2cf8-0f33-d435-350c00000024" InPoint="127007872995" MasterClipReference="15df55d3-fec5-40c0-8b74-80a873d0401d" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830"/>
+
+  <SubClip AssetName="Ваня упал и Владик добивал" AssetType="AssetTypeSubClip" ClassID="0b52ab9a-1ef7-406e-8bb9-d040322790ea" Duration="13183417216881" ImportDate="2022-07-19 01:52:06" InOutMarkerID="10c1bc65-6f4d-5d13-ef58-31e300000024" InPoint="0" MasterClipReference="fc1c6c88-fa1a-4c71-ac26-4928744cdbd2" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830"/>
+
+  <SubClip AssetName="Влада просят пиздануть" AssetType="AssetTypeSubClip" ClassID="67fbf4d6-1011-4a1d-a154-f2ad33f67977" Duration="71632440369180" ImportDate="2022-07-19 01:52:06" InOutMarkerID="7bb8be05-6633-e844-c44e-871d00000024" InPoint="0" MasterClipReference="a8ce829f-f5d5-4df5-b370-f643875a6b96" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830"/>
+
+  <SubClip AssetName="Ваня пизданул Владика" AssetType="AssetTypeSubClip" ClassID="3143d9d7-f0f0-4e1d-8748-ad4bac2fc640" Duration="30253275347409" ImportDate="2022-07-19 01:52:06" InOutMarkerID="55c86b25-f143-8a01-dc8f-2f7c00000024" InPoint="482629917381" MasterClipReference="66a2b329-587a-4a27-b049-273a8bd31ffa" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830"/>
+
+  <SubClip AssetName="Владик завязывает шнурки под музыку" AssetType="AssetTypeSubClip" ClassID="1afc5fd2-6b31-4f1f-a1ba-ca60c96edd19" Duration="12014944785327" ImportDate="2022-07-19 01:52:06" InOutMarkerID="6116b0d9-b32c-0f93-5cf9-96d700000024" InPoint="4978708621404" MasterClipReference="5db2d5a9-87ed-4171-9bd7-ee39a98dbf3e" ParentClassID="e4caa634-9164-4a35-8eb0-971a8195d830"/>
+
+  <Bin AssetName="Chill_Zone_04" AssetType="AssetTypeBin" ClassID="97add5e9-81a2-4538-9ecb-2e48bd85303e" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="b58ba44e-3ccb-4281-8dd5-831a48af91c2"/>
+    <AssetChild ClassID="904be985-161a-4a36-9bb6-10d344aeacc1"/>
+  </Bin>
+
+  <MasterClip AssetName="20200715_172403.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b58ba44e-3ccb-4281-8dd5-831a48af91c2" CreatedDate="10/15/21, 17:44:58" DropFrame="false" Duration="31557222843491" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_04\20200715_172403.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:45:01" ParentClassID="97add5e9-81a2-4538-9ecb-2e48bd85303e" StartTime="0">
+    <SubClipReference ClassID="904be985-161a-4a36-9bb6-10d344aeacc1"/>
+  </MasterClip>
+
+  <SubClip AssetName="Влад игнорит Петю" AssetType="AssetTypeSubClip" ClassID="904be985-161a-4a36-9bb6-10d344aeacc1" Duration="3344540655535" ImportDate="2022-07-19 01:52:06" InOutMarkerID="ecbdbe30-543b-23fd-1e27-08ad00000024" InPoint="13843858156455" MasterClipReference="b58ba44e-3ccb-4281-8dd5-831a48af91c2" ParentClassID="97add5e9-81a2-4538-9ecb-2e48bd85303e"/>
+
+  <Bin AssetName="Chill_Zone_05" AssetType="AssetTypeBin" ClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="dd2531c5-e0fd-4899-ad16-2c66d87f56a8"/>
+    <AssetChild ClassID="4d40b77a-bce2-4f3c-8323-b773b39c48e8"/>
+    <AssetChild ClassID="3a9fc5f1-7429-42a1-8f58-25c854127b78"/>
+    <AssetChild ClassID="8e098d8c-350f-4597-91a0-7f7d7cfa3fba"/>
+    <AssetChild ClassID="02a7b5e3-c4a0-4111-a25b-1a56856bb112"/>
+    <AssetChild ClassID="130ddfee-04b7-42c5-b1c6-a7878be135c2"/>
+    <AssetChild ClassID="35664214-5c16-43d4-b930-d47d1f1f9ce7"/>
+    <AssetChild ClassID="652e8815-cf15-4888-b7dd-b69a94804b73"/>
+    <AssetChild ClassID="423d4ada-858f-4b50-b9be-b2d6037f4927"/>
+    <AssetChild ClassID="8315a84f-479d-450c-88fa-8bc91556872b"/>
+    <AssetChild ClassID="69313734-231c-4a84-9c45-356fb3d73342"/>
+    <AssetChild ClassID="c3af49be-5864-4690-bd61-12e1aa6790f1"/>
+    <AssetChild ClassID="6662e1ea-e35f-4a8f-8509-46a5fe4b0ceb"/>
+    <AssetChild ClassID="a87bc9aa-b6ef-4405-81e2-35b38d99937f"/>
+    <AssetChild ClassID="d385eb64-a073-4b21-bb99-afd069940a67"/>
+    <AssetChild ClassID="d145b1c2-0431-4a69-8714-673e1511f272"/>
+    <AssetChild ClassID="8218d6f9-e588-4cff-94a6-b2a7443b25a1"/>
+    <AssetChild ClassID="d70c1459-42f0-401e-b55d-eb123ea59402"/>
+  </Bin>
+
+  <MasterClip AssetName="20200726_203703.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="dd2531c5-e0fd-4899-ad16-2c66d87f56a8" CreatedDate="10/15/21, 17:48:48" DropFrame="false" Duration="14622839777491" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200726_203703.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:48:59" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="423d4ada-858f-4b50-b9be-b2d6037f4927"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200726_203805.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4d40b77a-bce2-4f3c-8323-b773b39c48e8" CreatedDate="10/15/21, 17:48:49" DropFrame="false" Duration="53411044190164" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200726_203805.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:48:59" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="8315a84f-479d-450c-88fa-8bc91556872b"/>
+    <SubClipReference ClassID="69313734-231c-4a84-9c45-356fb3d73342"/>
+    <SubClipReference ClassID="c3af49be-5864-4690-bd61-12e1aa6790f1"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200726_204140.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="3a9fc5f1-7429-42a1-8f58-25c854127b78" CreatedDate="10/15/21, 17:48:52" DropFrame="false" Duration="21718346282145" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200726_204140.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:49:00" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="6662e1ea-e35f-4a8f-8509-46a5fe4b0ceb"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200726_204334.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8e098d8c-350f-4597-91a0-7f7d7cfa3fba" CreatedDate="10/15/21, 17:48:54" DropFrame="false" Duration="14936125864212" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200726_204334.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:49:00" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="a87bc9aa-b6ef-4405-81e2-35b38d99937f"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200728_210506.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="02a7b5e3-c4a0-4111-a25b-1a56856bb112" CreatedDate="10/15/21, 17:48:55" DropFrame="false" Duration="8508746035441" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200728_210506.mpg" FrameRate="8483296147" ImportDate="2021-10-15 17:49:01" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0"/>
+
+  <MasterClip AssetName="20200728_210547.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="130ddfee-04b7-42c5-b1c6-a7878be135c2" CreatedDate="10/15/21, 17:48:55" DropFrame="false" Duration="28696817684244" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200728_210547.mpg" FrameRate="8495209498" ImportDate="2021-10-15 17:49:01" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="d385eb64-a073-4b21-bb99-afd069940a67"/>
+    <SubClipReference ClassID="d145b1c2-0431-4a69-8714-673e1511f272"/>
+    <SubClipReference ClassID="8218d6f9-e588-4cff-94a6-b2a7443b25a1"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200728_210744.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="35664214-5c16-43d4-b930-d47d1f1f9ce7" CreatedDate="10/15/21, 17:48:56" DropFrame="false" Duration="33716136758148" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200728_210744.mpg" FrameRate="8475650266" ImportDate="2021-10-15 17:49:02" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0">
+    <SubClipReference ClassID="d70c1459-42f0-401e-b55d-eb123ea59402"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200728_211013.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="652e8815-cf15-4888-b7dd-b69a94804b73" CreatedDate="10/15/21, 17:48:58" DropFrame="false" Duration="14004734795582" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_05\20200728_211013.mpg" FrameRate="8467191533" ImportDate="2021-10-15 17:49:03" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb" StartTime="0"/>
+
+  <SubClip AssetName="Димон и Пумба" AssetType="AssetTypeSubClip" ClassID="423d4ada-858f-4b50-b9be-b2d6037f4927" Duration="9288509111701" ImportDate="2022-07-19 01:52:06" InOutMarkerID="f8566ff9-024d-6dd9-44b4-db8300000024" InPoint="0" MasterClipReference="dd2531c5-e0fd-4899-ad16-2c66d87f56a8" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Дима очкует" AssetType="AssetTypeSubClip" ClassID="8315a84f-479d-450c-88fa-8bc91556872b" Duration="15266346333999" ImportDate="2022-07-19 01:52:06" InOutMarkerID="ee063a5d-0d2a-4094-f464-4b2b00000024" InPoint="0" MasterClipReference="4d40b77a-bce2-4f3c-8323-b773b39c48e8" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Петя потерял Диму" AssetType="AssetTypeSubClip" ClassID="69313734-231c-4a84-9c45-356fb3d73342" Duration="6426598373547" ImportDate="2022-07-19 01:52:06" InOutMarkerID="45a59771-5d50-f0bc-6993-ec4700000024" InPoint="16375548424822" MasterClipReference="4d40b77a-bce2-4f3c-8323-b773b39c48e8" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Идем по пивасу возьмем" AssetType="AssetTypeSubClip" ClassID="c3af49be-5864-4690-bd61-12e1aa6790f1" Duration="8357118043071" ImportDate="2022-07-19 01:52:06" InOutMarkerID="b05ddf94-c4f6-0a30-bd6c-dfad00000024" InPoint="33436939363817" MasterClipReference="4d40b77a-bce2-4f3c-8323-b773b39c48e8" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Дима снова очкует" AssetType="AssetTypeSubClip" ClassID="6662e1ea-e35f-4a8f-8509-46a5fe4b0ceb" Duration="19093516906915" ImportDate="2022-07-19 01:52:06" InOutMarkerID="f6475e45-31ea-d5f9-f3b4-82b500000024" InPoint="0" MasterClipReference="3a9fc5f1-7429-42a1-8f58-25c854127b78" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Димона потеряли " AssetType="AssetTypeSubClip" ClassID="a87bc9aa-b6ef-4405-81e2-35b38d99937f" Duration="8374052426137" ImportDate="2022-07-19 01:52:06" InOutMarkerID="2e5d9d84-4572-e4af-2795-1edd00000024" InPoint="0" MasterClipReference="8e098d8c-350f-4597-91a0-7f7d7cfa3fba" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Э УБЕРИ КАМЕРУ Э" AssetType="AssetTypeSubClip" ClassID="d385eb64-a073-4b21-bb99-afd069940a67" Duration="8868998715912" ImportDate="2022-07-19 01:52:06" InOutMarkerID="06beaed2-6eb5-9b74-0c8e-64b700000024" InPoint="908987416286" MasterClipReference="130ddfee-04b7-42c5-b1c6-a7878be135c2" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Петя орет на пизду" AssetType="AssetTypeSubClip" ClassID="d145b1c2-0431-4a69-8714-673e1511f272" Duration="2463610754420" ImportDate="2022-07-19 01:52:06" InOutMarkerID="7ebdb4f1-bfe1-c21b-0f68-cb9b00000024" InPoint="19003783647026" MasterClipReference="130ddfee-04b7-42c5-b1c6-a7878be135c2" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Петя орет на хуй" AssetType="AssetTypeSubClip" ClassID="8218d6f9-e588-4cff-94a6-b2a7443b25a1" Duration="4256099958498" ImportDate="2022-07-19 01:52:06" InOutMarkerID="1bb58ba9-4c38-e10c-9baa-369100000024" InPoint="22401867446226" MasterClipReference="130ddfee-04b7-42c5-b1c6-a7878be135c2" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <SubClip AssetName="Петя танцует" AssetType="AssetTypeSubClip" ClassID="d70c1459-42f0-401e-b55d-eb123ea59402" Duration="33716136758148" ImportDate="2022-08-26 10:02:56" InOutMarkerID="d56a6203-4922-5de7-b841-5e2f00000024" InPoint="0" MasterClipReference="35664214-5c16-43d4-b930-d47d1f1f9ce7" ParentClassID="d0941153-f393-4fd1-844a-70e5a78a2acb"/>
+
+  <Bin AssetName="Chill_Zone_06" AssetType="AssetTypeBin" ClassID="6f6dc22a-30f8-40fa-aa17-63dced087777" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="bbec318b-696c-43fb-8e08-7f506b9cbcf9"/>
+    <AssetChild ClassID="0a5c7231-dc9a-4500-b069-440d887f10dd"/>
+    <AssetChild ClassID="303966d0-04d4-411e-8d7d-07878ff7a6a0"/>
+    <AssetChild ClassID="2a287439-9e3d-43cd-8805-18a3b4547625"/>
+    <AssetChild ClassID="c5c98570-50c3-40c2-adfe-b6fd78e879d1"/>
+    <AssetChild ClassID="e78e45e7-165f-4f73-a812-15fa253326f6"/>
+  </Bin>
+
+  <MasterClip AssetName="20200804_201028.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="bbec318b-696c-43fb-8e08-7f506b9cbcf9" CreatedDate="10/15/21, 23:09:16" DropFrame="false" Duration="64562335439125" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_06\20200804_201028.mpg" FrameRate="8467191533" ImportDate="2021-10-15 23:09:27" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777" StartTime="0">
+    <SubClipReference ClassID="2a287439-9e3d-43cd-8805-18a3b4547625"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200804_201445.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="0a5c7231-dc9a-4500-b069-440d887f10dd" CreatedDate="10/15/21, 23:09:18" DropFrame="false" Duration="188234134970123" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_06\20200804_201445.mpg" FrameRate="8467191533" ImportDate="2021-10-15 23:09:28" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777" StartTime="0">
+    <SubClipReference ClassID="c5c98570-50c3-40c2-adfe-b6fd78e879d1"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200804_202718.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="303966d0-04d4-411e-8d7d-07878ff7a6a0" CreatedDate="10/15/21, 23:09:26" DropFrame="false" Duration="12450730240754" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_06\20200804_202718.mpg" FrameRate="8475650266" ImportDate="2021-10-15 23:09:29" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777" StartTime="0">
+    <SubClipReference ClassID="e78e45e7-165f-4f73-a812-15fa253326f6"/>
+  </MasterClip>
+
+  <SubClip AssetName="Петя забрал у Влада бандану" AssetType="AssetTypeSubClip" ClassID="2a287439-9e3d-43cd-8805-18a3b4547625" Duration="63182183219246" ImportDate="2022-07-19 01:52:06" InOutMarkerID="a314af5d-f4b6-5da8-3180-56e900000024" InPoint="1380152219879" MasterClipReference="bbec318b-696c-43fb-8e08-7f506b9cbcf9" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777"/>
+
+  <SubClip AssetName="Владик бесится на Петю" AssetType="AssetTypeSubClip" ClassID="c5c98570-50c3-40c2-adfe-b6fd78e879d1" Duration="188234134970123" ImportDate="2022-07-19 01:52:06" InOutMarkerID="9b9ff165-c8b2-da68-53e6-299600000024" InPoint="0" MasterClipReference="0a5c7231-dc9a-4500-b069-440d887f10dd" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777"/>
+
+  <SubClip AssetName="Петя успокаивает Владика" AssetType="AssetTypeSubClip" ClassID="e78e45e7-165f-4f73-a812-15fa253326f6" Duration="11340420055908" ImportDate="2022-07-19 01:52:06" InOutMarkerID="5f060bc6-08ed-4833-0085-544400000024" InPoint="0" MasterClipReference="303966d0-04d4-411e-8d7d-07878ff7a6a0" ParentClassID="6f6dc22a-30f8-40fa-aa17-63dced087777"/>
+
+  <Bin AssetName="Chill_Zone_07" AssetType="AssetTypeBin" ClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="ae19315f-352c-4d60-999f-ee096c2bc506"/>
+    <AssetChild ClassID="8efd7916-6b13-4d76-b1b6-b14a1375217f"/>
+    <AssetChild ClassID="5890eeb1-2016-4b0b-a0a9-4465d0ef8cb8"/>
+    <AssetChild ClassID="18cc12c7-7141-4908-bfc2-71c7eeadd11c"/>
+    <AssetChild ClassID="68ba22d9-07c3-470b-9c4a-307d358ac06a"/>
+    <AssetChild ClassID="134c3336-0a81-4c24-a554-e3ebef4266df"/>
+    <AssetChild ClassID="3c2fb479-fb9c-41ae-8d97-28136ec0048d"/>
+    <AssetChild ClassID="1c3fd305-1b32-4d8f-acbe-a2575319316d"/>
+  </Bin>
+
+  <MasterClip AssetName="20200811_211458.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="ae19315f-352c-4d60-999f-ee096c2bc506" CreatedDate="10/17/21, 06:59:37" DropFrame="false" Duration="32447538992250" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_07\20200811_211458.mpg" FrameRate="8483016730" ImportDate="2021-10-17 06:59:39" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" StartTime="0">
+    <SubClipReference ClassID="134c3336-0a81-4c24-a554-e3ebef4266df"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200811_211813.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8efd7916-6b13-4d76-b1b6-b14a1375217f" CreatedDate="10/17/21, 06:59:38" DropFrame="false" Duration="37408052192794" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_07\20200811_211813.mpg" FrameRate="8467191533" ImportDate="2021-10-17 06:59:40" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" StartTime="0">
+    <SubClipReference ClassID="3c2fb479-fb9c-41ae-8d97-28136ec0048d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200811_212339.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5890eeb1-2016-4b0b-a0a9-4465d0ef8cb8" CreatedDate="10/17/21, 06:59:38" DropFrame="false" Duration="30718970881724" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_07\20200811_212339.mpg" FrameRate="8467191533" ImportDate="2021-10-17 06:59:41" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" StartTime="0">
+    <SubClipReference ClassID="1c3fd305-1b32-4d8f-acbe-a2575319316d"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200811_212555.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="18cc12c7-7141-4908-bfc2-71c7eeadd11c" CreatedDate="10/17/21, 06:59:38" DropFrame="false" Duration="36877554307366" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_07\20200811_212555.mpg" FrameRate="8475650266" ImportDate="2021-10-17 06:59:41" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" StartTime="0"/>
+
+  <MasterClip AssetName="20200811_212957.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="68ba22d9-07c3-470b-9c4a-307d358ac06a" CreatedDate="10/17/21, 06:59:39" DropFrame="false" Duration="55699904357901" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_07\20200811_212957.mpg" FrameRate="8489544941" ImportDate="2021-10-17 06:59:42" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0" StartTime="0"/>
+
+  <SubClip AssetName="Саня танцует буги вуги" AssetType="AssetTypeSubClip" ClassID="134c3336-0a81-4c24-a554-e3ebef4266df" Duration="32447538992250" ImportDate="2022-07-19 01:52:06" InOutMarkerID="fd8ceecf-7641-d5f3-22a0-a7f100000024" InPoint="0" MasterClipReference="ae19315f-352c-4d60-999f-ee096c2bc506" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0"/>
+
+  <SubClip AssetName="Шила с Петей" AssetType="AssetTypeSubClip" ClassID="3c2fb479-fb9c-41ae-8d97-28136ec0048d" Duration="37408052192794" ImportDate="2022-07-19 01:52:06" InOutMarkerID="77c75fcf-e38d-3140-7e1e-763b00000024" InPoint="0" MasterClipReference="8efd7916-6b13-4d76-b1b6-b14a1375217f" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0"/>
+
+  <SubClip AssetName="Плитка Шоколада Шилы" AssetType="AssetTypeSubClip" ClassID="1c3fd305-1b32-4d8f-acbe-a2575319316d" Duration="30718970881724" ImportDate="2022-07-19 01:52:06" InOutMarkerID="9025a485-19e1-df77-703c-cbf900000024" InPoint="0" MasterClipReference="5890eeb1-2016-4b0b-a0a9-4465d0ef8cb8" ParentClassID="65fbd3cd-8bd1-46ed-ba7f-ff62cd3b07f0"/>
+
+  <Bin AssetName="Chill_Zone_08" AssetType="AssetTypeBin" ClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="7d547e9c-d7d4-4cfa-96de-bcdd766c8faf"/>
+    <AssetChild ClassID="478746f4-3c40-45c7-b49d-1fa5618a0cb5"/>
+    <AssetChild ClassID="2d231be9-61c5-45a7-90f2-51fed1ecd9fe"/>
+    <AssetChild ClassID="144267db-f020-423c-be65-44952f07ddea"/>
+    <AssetChild ClassID="0ff4e7c9-1c6f-453c-be11-340e4c3dba1a"/>
+    <AssetChild ClassID="65ce5e86-8e57-48e9-abd5-38b7c1562746"/>
+    <AssetChild ClassID="834c959d-f07a-4dde-ac45-ce9fa42da392"/>
+    <AssetChild ClassID="b3950a28-fa42-4a40-9cd4-cbfbdfa2316a"/>
+    <AssetChild ClassID="4362330c-8d97-4115-9f58-630fb6ca7a13"/>
+    <AssetChild ClassID="3c554539-88f8-4be3-aebf-2a248a512d9a"/>
+    <AssetChild ClassID="2ecea5b1-04f2-4df5-83ff-d105422d9f12"/>
+    <AssetChild ClassID="0e491bf2-5181-46f2-acf2-23928c20be4c"/>
+    <AssetChild ClassID="62422a31-a317-4603-9c46-dd37b808d140"/>
+    <AssetChild ClassID="8107dc8b-cc4c-4c78-a1cb-c4f6fe99df3c"/>
+    <AssetChild ClassID="219e1014-6151-4cd3-9a30-cef91c650581"/>
+    <AssetChild ClassID="7acb1af8-a591-48aa-988e-a49d015b4c83"/>
+    <AssetChild ClassID="b8dfb6f6-6bbe-415d-b2ff-8545c22da719"/>
+    <AssetChild ClassID="baf7989a-916c-4795-a92d-46810d96fec8"/>
+    <AssetChild ClassID="b6101822-87af-497e-a79c-1bb8b18315ca"/>
+  </Bin>
+
+  <MasterClip AssetName="20200818_144553.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7d547e9c-d7d4-4cfa-96de-bcdd766c8faf" CreatedDate="10/17/21, 07:06:32" DropFrame="false" Duration="18060519539889" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_144553.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:42" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="3c554539-88f8-4be3-aebf-2a248a512d9a"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_144717.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="478746f4-3c40-45c7-b49d-1fa5618a0cb5" CreatedDate="10/17/21, 07:06:32" DropFrame="false" Duration="25613254387325" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_144717.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:43" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="2ecea5b1-04f2-4df5-83ff-d105422d9f12"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_144908.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="2d231be9-61c5-45a7-90f2-51fed1ecd9fe" CreatedDate="10/17/21, 07:06:32" DropFrame="false" Duration="43987060013935" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_144908.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:44" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="0e491bf2-5181-46f2-acf2-23928c20be4c"/>
+    <SubClipReference ClassID="62422a31-a317-4603-9c46-dd37b808d140"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_161652.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="144267db-f020-423c-be65-44952f07ddea" CreatedDate="10/17/21, 07:06:32" DropFrame="false" Duration="115103001699602" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_161652.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:45" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="8107dc8b-cc4c-4c78-a1cb-c4f6fe99df3c"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_191300.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="0ff4e7c9-1c6f-453c-be11-340e4c3dba1a" CreatedDate="10/17/21, 07:06:40" DropFrame="false" Duration="19254393546042" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_191300.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:45" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="219e1014-6151-4cd3-9a30-cef91c650581"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_200946.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="65ce5e86-8e57-48e9-abd5-38b7c1562746" CreatedDate="10/17/21, 07:06:40" DropFrame="false" Duration="9423984176229" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_200946.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:46" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="7acb1af8-a591-48aa-988e-a49d015b4c83"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_201028.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="834c959d-f07a-4dde-ac45-ce9fa42da392" CreatedDate="10/17/21, 07:06:41" DropFrame="false" Duration="5876230923902" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_201028.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:47" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="b8dfb6f6-6bbe-415d-b2ff-8545c22da719"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_201233.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b3950a28-fa42-4a40-9cd4-cbfbdfa2316a" CreatedDate="10/17/21, 07:06:41" DropFrame="false" Duration="11312167888088" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_201233.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:47" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="baf7989a-916c-4795-a92d-46810d96fec8"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20200818_201637.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4362330c-8d97-4115-9f58-630fb6ca7a13" CreatedDate="10/17/21, 07:06:41" DropFrame="false" Duration="3505417294662" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_08\20200818_201637.mpg" FrameRate="8467191533" ImportDate="2021-10-17 07:06:48" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100" StartTime="0">
+    <SubClipReference ClassID="b6101822-87af-497e-a79c-1bb8b18315ca"/>
+  </MasterClip>
+
+  <SubClip AssetName="Петя говорит тост на моё ДР" AssetType="AssetTypeSubClip" ClassID="3c554539-88f8-4be3-aebf-2a248a512d9a" Duration="18060519539889" ImportDate="2022-07-19 01:52:06" InOutMarkerID="ebd27192-df7f-0822-0176-532600000024" InPoint="0" MasterClipReference="7d547e9c-d7d4-4cfa-96de-bcdd766c8faf" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Дима говорит тост на моё ДР" AssetType="AssetTypeSubClip" ClassID="2ecea5b1-04f2-4df5-83ff-d105422d9f12" Duration="25613254387325" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8ee04c4a-77b9-e28c-b24e-0b7c00000024" InPoint="0" MasterClipReference="478746f4-3c40-45c7-b49d-1fa5618a0cb5" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Ваня говорит тост на моё ДР" AssetType="AssetTypeSubClip" ClassID="0e491bf2-5181-46f2-acf2-23928c20be4c" Duration="13649112751196" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8b84bc5b-b3a6-8919-deec-940700000024" InPoint="0" MasterClipReference="2d231be9-61c5-45a7-90f2-51fed1ecd9fe" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Богдан говорит тост на моё ДР" AssetType="AssetTypeSubClip" ClassID="62422a31-a317-4603-9c46-dd37b808d140" Duration="30177070623612" ImportDate="2022-07-19 01:52:06" InOutMarkerID="57be2fd2-1065-2290-e03c-fe8b00000024" InPoint="13801522198790" MasterClipReference="2d231be9-61c5-45a7-90f2-51fed1ecd9fe" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Пришли с Димой на то место" AssetType="AssetTypeSubClip" ClassID="8107dc8b-cc4c-4c78-a1cb-c4f6fe99df3c" Duration="115103001699602" ImportDate="2022-07-19 01:52:06" InOutMarkerID="3bd69a9b-4f25-2a71-87d0-796200000024" InPoint="0" MasterClipReference="144267db-f020-423c-be65-44952f07ddea" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Поклевало и сьебал" AssetType="AssetTypeSubClip" ClassID="219e1014-6151-4cd3-9a30-cef91c650581" Duration="18737894862529" ImportDate="2022-07-19 01:52:06" InOutMarkerID="88484cf8-c964-e822-3d13-c25a00000024" InPoint="516498683513" MasterClipReference="0ff4e7c9-1c6f-453c-be11-340e4c3dba1a" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Шилу измазали помадой" AssetType="AssetTypeSubClip" ClassID="7acb1af8-a591-48aa-988e-a49d015b4c83" Duration="9423984176229" ImportDate="2022-07-19 01:52:06" InOutMarkerID="84866f0d-212f-5dca-1918-8e0c00000024" InPoint="0" MasterClipReference="65ce5e86-8e57-48e9-abd5-38b7c1562746" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Шила не знает что ему написали" AssetType="AssetTypeSubClip" ClassID="b8dfb6f6-6bbe-415d-b2ff-8545c22da719" Duration="5876230923902" ImportDate="2022-07-19 01:52:06" InOutMarkerID="9abe8b2f-52f1-2933-7e14-d6e000000024" InPoint="0" MasterClipReference="834c959d-f07a-4dde-ac45-ce9fa42da392" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Ветя кривляется" AssetType="AssetTypeSubClip" ClassID="baf7989a-916c-4795-a92d-46810d96fec8" Duration="11312167888088" ImportDate="2022-07-19 01:52:06" InOutMarkerID="85082b5c-187a-1cc7-9827-5f0d00000024" InPoint="0" MasterClipReference="b3950a28-fa42-4a40-9cd4-cbfbdfa2316a" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <SubClip AssetName="Вета проорала мимо камеры" AssetType="AssetTypeSubClip" ClassID="b6101822-87af-497e-a79c-1bb8b18315ca" Duration="3505417294662" ImportDate="2022-07-19 01:52:06" InOutMarkerID="648a58dd-fb86-9901-108f-8fcf00000024" InPoint="0" MasterClipReference="4362330c-8d97-4115-9f58-630fb6ca7a13" ParentClassID="dc78f9c9-f2a0-4e53-8e8c-c044d6d6d100"/>
+
+  <Bin AssetName="Chill_Zone_09" AssetType="AssetTypeBin" ClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69"/>
+    <AssetChild ClassID="f0a12a84-f511-45e7-bbd5-3ea8d8cffd0d"/>
+    <AssetChild ClassID="d51c4fc7-f22b-4edd-9d0b-f6173b2f347e"/>
+    <AssetChild ClassID="6b850217-27ef-4f8e-a893-9d4bca8fd4a1"/>
+    <AssetChild ClassID="dfbab675-d314-47db-8f2f-b3b0d1b0aac7"/>
+    <AssetChild ClassID="e21ba887-fb0f-4048-ab43-5db24d47db1e"/>
+    <AssetChild ClassID="c67023bb-a76f-4617-9196-ce8bb623e5c0"/>
+    <AssetChild ClassID="62425308-e36c-48f2-83fe-4c4b75d9db5a"/>
+    <AssetChild ClassID="a6b6045f-72ac-48fd-be46-b95e2942e8d5"/>
+    <AssetChild ClassID="0f289f0e-15b2-4d89-bb24-dcb1533491a0"/>
+    <AssetChild ClassID="7b9316b6-62fe-4779-8411-246100536b5f"/>
+    <AssetChild ClassID="6f0122e3-5107-4cde-a255-c54d51a0153c"/>
+    <AssetChild ClassID="69446681-1d9f-403d-a06e-5190148e6c44"/>
+    <AssetChild ClassID="0140e5b2-a9a4-4775-84a2-547b156b3f5a"/>
+    <AssetChild ClassID="d3c083b2-f9af-4854-a894-ec4f94622d33"/>
+    <AssetChild ClassID="4b86bd08-58eb-4246-8fa0-7b6758b1dccc"/>
+    <AssetChild ClassID="84d37003-44ed-41b7-a757-f8cf23f3744f"/>
+  </Bin>
+
+  <MasterClip AssetName="20201017_190956.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" CreatedDate="10/19/21, 09:02:52" DropFrame="false" Duration="171773914629971" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_190956.mpg" FrameRate="8467191533" ImportDate="2021-10-19 09:03:05" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0">
+    <SubClipReference ClassID="0f289f0e-15b2-4d89-bb24-dcb1533491a0"/>
+    <SubClipReference ClassID="7b9316b6-62fe-4779-8411-246100536b5f"/>
+    <SubClipReference ClassID="6f0122e3-5107-4cde-a255-c54d51a0153c"/>
+    <SubClipReference ClassID="69446681-1d9f-403d-a06e-5190148e6c44"/>
+    <SubClipReference ClassID="0140e5b2-a9a4-4775-84a2-547b156b3f5a"/>
+    <SubClipReference ClassID="d3c083b2-f9af-4854-a894-ec4f94622d33"/>
+    <SubClipReference ClassID="4b86bd08-58eb-4246-8fa0-7b6758b1dccc"/>
+    <SubClipReference ClassID="84d37003-44ed-41b7-a757-f8cf23f3744f"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201017_192117.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f0a12a84-f511-45e7-bbd5-3ea8d8cffd0d" CreatedDate="10/19/21, 09:02:55" DropFrame="false" Duration="40810256030790" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_192117.mpg" FrameRate="8475650266" ImportDate="2021-10-19 09:03:06" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_193416.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d51c4fc7-f22b-4edd-9d0b-f6173b2f347e" CreatedDate="10/19/21, 09:02:55" DropFrame="false" Duration="39330104670785" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_193416.mpg" FrameRate="8467191533" ImportDate="2021-10-19 09:03:07" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_193654.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="6b850217-27ef-4f8e-a893-9d4bca8fd4a1" CreatedDate="10/19/21, 09:02:57" DropFrame="false" Duration="41364735108480" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_193654.mpg" FrameRate="8481594240" ImportDate="2021-10-19 09:03:07" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_195452.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="dfbab675-d314-47db-8f2f-b3b0d1b0aac7" CreatedDate="10/19/21, 09:02:58" DropFrame="false" Duration="80328246073571" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_195452.mpg" FrameRate="8467191533" ImportDate="2021-10-19 09:03:08" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_205227.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e21ba887-fb0f-4048-ab43-5db24d47db1e" CreatedDate="10/19/21, 09:03:01" DropFrame="false" Duration="17552488047909" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_205227.mpg" FrameRate="8467191533" ImportDate="2021-10-19 09:03:08" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_210424.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c67023bb-a76f-4617-9196-ce8bb623e5c0" CreatedDate="10/19/21, 09:03:02" DropFrame="false" Duration="62304505105366" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_210424.mpg" FrameRate="8475650266" ImportDate="2021-10-19 09:03:09" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_210834.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="62425308-e36c-48f2-83fe-4c4b75d9db5a" CreatedDate="10/19/21, 09:03:04" DropFrame="false" Duration="26316894075930" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_210834.mpg" FrameRate="8475650266" ImportDate="2021-10-19 09:03:09" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <MasterClip AssetName="20201017_213850.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a6b6045f-72ac-48fd-be46-b95e2942e8d5" CreatedDate="10/19/21, 09:03:05" DropFrame="false" Duration="23496263729684" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_09\20201017_213850.mpg" FrameRate="8594097926" ImportDate="2021-10-19 09:03:10" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239" StartTime="0"/>
+
+  <SubClip AssetName="Петя бесится" AssetType="AssetTypeSubClip" ClassID="0f289f0e-15b2-4d89-bb24-dcb1533491a0" Duration="9991286008940" ImportDate="2022-07-19 01:52:06" InOutMarkerID="9f81d1dd-ca76-99fa-ed46-349a00000024" InPoint="12133485466789" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="ШИЛА БУХАЕТ СУКА" AssetType="AssetTypeSubClip" ClassID="7b9316b6-62fe-4779-8411-246100536b5f" Duration="22836015564501" ImportDate="2022-07-19 01:52:06" InOutMarkerID="0aebf046-e83c-87ca-7299-42c900000024" InPoint="29118671681987" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="САНЯ ЧТО С ТОБОЙ" AssetType="AssetTypeSubClip" ClassID="6f0122e3-5107-4cde-a255-c54d51a0153c" Duration="12302829297449" ImportDate="2022-07-19 01:52:06" InOutMarkerID="f0ae9004-526c-b461-ec42-2e7300000024" InPoint="55908865692399" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="ШИЛУ ТОЛКНУЛИ" AssetType="AssetTypeSubClip" ClassID="69446681-1d9f-403d-a06e-5190148e6c44" Duration="45841374959662" ImportDate="2022-07-19 01:52:06" InOutMarkerID="0a56caba-e156-286f-a217-c83300000024" InPoint="73266608335049" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="Саня бешенно мансует" AssetType="AssetTypeSubClip" ClassID="0140e5b2-a9a4-4775-84a2-547b156b3f5a" Duration="10592456607783" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8bef688b-d2d3-d1c8-718e-51bb00000024" InPoint="119184188018508" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="САНЯ ДОЛБАЁБ" AssetType="AssetTypeSubClip" ClassID="d3c083b2-f9af-4854-a894-ec4f94622d33" Duration="6375795224349" ImportDate="2022-07-19 01:52:06" InOutMarkerID="0b8dd2d4-70cd-9e01-f257-e7bb00000024" InPoint="130123799479144" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="ДИМА ДОЛБАЁБЛО" AssetType="AssetTypeSubClip" ClassID="4b86bd08-58eb-4246-8fa0-7b6758b1dccc" Duration="3471548528530" ImportDate="2022-07-19 01:52:06" InOutMarkerID="168a539f-2cee-7ee0-0f68-0d5a00000024" InPoint="139395374207779" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <SubClip AssetName="Данчо санчо панчо" AssetType="AssetTypeSubClip" ClassID="84d37003-44ed-41b7-a757-f8cf23f3744f" Duration="26663186137417" ImportDate="2022-07-19 01:52:06" InOutMarkerID="2d812582-97e8-7385-fb15-1fad00000024" InPoint="145110728492554" MasterClipReference="ed8831ec-d7f2-4fa8-a8fc-7d7aee919d69" ParentClassID="4e71b372-1a55-4d19-b5c6-e2d89af2c239"/>
+
+  <Bin AssetName="Chill_Zone_10~" AssetType="AssetTypeBin" ClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="2fb457aa-62f0-47e2-b78c-a51e657cd744"/>
+    <AssetChild ClassID="9aed022f-395c-4ca3-84d9-af22e2ab0958"/>
+    <AssetChild ClassID="8faf6b5f-09de-465b-aa07-bed35683370b"/>
+    <AssetChild ClassID="da42cd50-6734-4dec-b5c4-747092f825d2"/>
+    <AssetChild ClassID="9963f970-2415-4ba2-8752-ba093485a4a5"/>
+    <AssetChild ClassID="01335a14-47f6-4e8f-9d82-3d72a04da2e2"/>
+    <AssetChild ClassID="e5047ad1-ce91-47b0-8d6c-0e6303a40634"/>
+    <AssetChild ClassID="ac94be3e-4f0a-43b8-ae78-24ab70b2ffd9"/>
+    <AssetChild ClassID="f5bdac67-8042-4247-ac6d-ad65eae655eb"/>
+    <AssetChild ClassID="e09364ab-4e2f-4bb8-9c31-2a79b65be6aa"/>
+    <AssetChild ClassID="8d3e5db9-7159-48de-abd6-39e1cc11c401"/>
+    <AssetChild ClassID="d06cff48-5902-44fe-b064-f3a93f9bd349"/>
+    <AssetChild ClassID="302ef3d9-a6b9-403e-a123-357edcef6502"/>
+    <AssetChild ClassID="71dcfa64-6321-4594-bb59-07ae5163380b"/>
+    <AssetChild ClassID="44bb827e-07fc-454f-a9d0-4b931a148085"/>
+    <AssetChild ClassID="0c0a13ac-16f5-4d38-83a6-3c1db6651db7"/>
+    <AssetChild ClassID="dbaa7b15-6b9e-485b-92a5-65232d660cc6"/>
+    <AssetChild ClassID="daae8de0-4608-446d-9436-398abe172143"/>
+    <AssetChild ClassID="9d440634-4a4a-44e4-addc-cecd9237fef6"/>
+    <AssetChild ClassID="5eb59824-426f-42d3-97cb-095643de8736"/>
+    <AssetChild ClassID="18c95f69-d590-4b54-9f87-800d5ec4ea00"/>
+    <AssetChild ClassID="68449350-3701-407d-b1ad-6e8f5b60c9fd"/>
+    <AssetChild ClassID="ebc0f9fa-780d-4cd3-8d01-09617e0a1476"/>
+    <AssetChild ClassID="7381f07a-de0f-4bf7-b291-449c6ac70e2b"/>
+    <AssetChild ClassID="d5a5cb64-4482-40a4-b00e-797eb3f32caf"/>
+    <AssetChild ClassID="d89ba4e6-55b6-4146-9f3c-1589b4a3512a"/>
+    <AssetChild ClassID="a4321db2-4f92-4f41-979c-f92bdc3a11bc"/>
+  </Bin>
+
+  <MasterClip AssetName="20210313_230031.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="2fb457aa-62f0-47e2-b78c-a51e657cd744" CreatedDate="11/05/21, 23:42:51" DropFrame="false" Duration="62428603172809" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_230031.mpg" FrameRate="8467191533" ImportDate="2021-11-05 23:43:23" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0">
+    <SubClipReference ClassID="302ef3d9-a6b9-403e-a123-357edcef6502"/>
+    <SubClipReference ClassID="71dcfa64-6321-4594-bb59-07ae5163380b"/>
+    <SubClipReference ClassID="44bb827e-07fc-454f-a9d0-4b931a148085"/>
+    <SubClipReference ClassID="0c0a13ac-16f5-4d38-83a6-3c1db6651db7"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210313_230500.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9aed022f-395c-4ca3-84d9-af22e2ab0958" CreatedDate="11/05/21, 23:42:52" DropFrame="false" Duration="153552518450955" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_230500.mpg" FrameRate="8467191533" ImportDate="2021-11-05 23:43:24" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0">
+    <SubClipReference ClassID="dbaa7b15-6b9e-485b-92a5-65232d660cc6"/>
+    <SubClipReference ClassID="daae8de0-4608-446d-9436-398abe172143"/>
+    <SubClipReference ClassID="9d440634-4a4a-44e4-addc-cecd9237fef6"/>
+    <SubClipReference ClassID="5eb59824-426f-42d3-97cb-095643de8736"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210313_231631.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8faf6b5f-09de-465b-aa07-bed35683370b" CreatedDate="11/05/21, 23:42:55" DropFrame="false" Duration="271975141385674" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_231631.mpg" FrameRate="8475650266" ImportDate="2021-11-05 23:43:24" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0">
+    <SubClipReference ClassID="18c95f69-d590-4b54-9f87-800d5ec4ea00"/>
+    <SubClipReference ClassID="68449350-3701-407d-b1ad-6e8f5b60c9fd"/>
+    <SubClipReference ClassID="ebc0f9fa-780d-4cd3-8d01-09617e0a1476"/>
+    <SubClipReference ClassID="7381f07a-de0f-4bf7-b291-449c6ac70e2b"/>
+    <SubClipReference ClassID="d5a5cb64-4482-40a4-b00e-797eb3f32caf"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210313_233426.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="da42cd50-6734-4dec-b5c4-747092f825d2" CreatedDate="11/05/21, 23:43:02" DropFrame="false" Duration="9973791520592" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_233426.mpg" FrameRate="8539205069" ImportDate="2021-11-05 23:43:25" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210313_233627.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9963f970-2415-4ba2-8752-ba093485a4a5" CreatedDate="11/05/21, 23:43:03" DropFrame="false" Duration="126236335061804" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_233627.mpg" FrameRate="8475650266" ImportDate="2021-11-05 23:43:25" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0">
+    <SubClipReference ClassID="a4321db2-4f92-4f41-979c-f92bdc3a11bc"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20210313_234448.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="01335a14-47f6-4e8f-9d82-3d72a04da2e2" CreatedDate="11/05/21, 23:43:06" DropFrame="false" Duration="44064905732934" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_234448.mpg" FrameRate="8475650266" ImportDate="2021-11-05 23:43:26" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210313_235152.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e5047ad1-ce91-47b0-8d6c-0e6303a40634" CreatedDate="11/05/21, 23:43:08" DropFrame="false" Duration="201225823344000" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210313_235152.mpg" FrameRate="8481594240" ImportDate="2021-11-05 23:43:28" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210314_000624.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="ac94be3e-4f0a-43b8-ae78-24ab70b2ffd9" CreatedDate="11/05/21, 23:43:13" DropFrame="false" Duration="146025185178118" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210314_000624.mpg" FrameRate="8467191533" ImportDate="2021-11-05 23:43:29" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210314_001643.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f5bdac67-8042-4247-ac6d-ad65eae655eb" CreatedDate="11/05/21, 23:43:18" DropFrame="false" Duration="11725108846364" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210314_001643.mpg" FrameRate="8484159802" ImportDate="2021-11-05 23:43:30" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210314_002105.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e09364ab-4e2f-4bb8-9c31-2a79b65be6aa" CreatedDate="11/05/21, 23:43:18" DropFrame="false" Duration="17702518813056" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210314_002105.mpg" FrameRate="8560212192" ImportDate="2021-11-05 23:43:31" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210314_002500.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8d3e5db9-7159-48de-abd6-39e1cc11c401" CreatedDate="11/05/21, 23:43:19" DropFrame="false" Duration="120464417230658" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210314_002500.mpg" FrameRate="8475650266" ImportDate="2021-11-05 23:43:32" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <MasterClip AssetName="20210314_003324.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d06cff48-5902-44fe-b064-f3a93f9bd349" CreatedDate="11/05/21, 23:43:21" DropFrame="false" Duration="51610322658994" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_10\20210314_003324.mpg" FrameRate="8515149754" ImportDate="2021-11-05 23:43:33" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb" StartTime="0"/>
+
+  <SubClip AssetName="Додон где пенсия" AssetType="AssetTypeSubClip" ClassID="302ef3d9-a6b9-403e-a123-357edcef6502" Duration="15418755781593" ImportDate="2022-07-19 01:52:06" InOutMarkerID="af1653b3-2d91-df7f-52b4-6b8700000024" InPoint="0" MasterClipReference="2fb457aa-62f0-47e2-b78c-a51e657cd744" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Чтобы вы сказали Майе Санду" AssetType="AssetTypeSubClip" ClassID="71dcfa64-6321-4594-bb59-07ae5163380b" Duration="9322377877833" ImportDate="2022-07-19 01:52:06" InOutMarkerID="7a3e966e-23da-ec11-cc9c-c55500000024" InPoint="15588099612253" MasterClipReference="2fb457aa-62f0-47e2-b78c-a51e657cd744" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Дима пиздит Майю Санду" AssetType="AssetTypeSubClip" ClassID="44bb827e-07fc-454f-a9d0-4b931a148085" Duration="16036860763502" ImportDate="2022-07-19 01:52:06" InOutMarkerID="e7abd33b-317f-6d36-5fe4-b00500000024" InPoint="25189894810675" MasterClipReference="2fb457aa-62f0-47e2-b78c-a51e657cd744" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Посмотрел уверенно, сел умеренно" AssetType="AssetTypeSubClip" ClassID="0c0a13ac-16f5-4d38-83a6-3c1db6651db7" Duration="20897028703444" ImportDate="2022-07-19 01:52:06" InOutMarkerID="8148d24c-3a2b-9fb6-1669-657300000024" InPoint="41531574469365" MasterClipReference="2fb457aa-62f0-47e2-b78c-a51e657cd744" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Речь для Пети и Дворец для Димы" AssetType="AssetTypeSubClip" ClassID="dbaa7b15-6b9e-485b-92a5-65232d660cc6" Duration="36959291041545" ImportDate="2022-07-19 01:52:06" InOutMarkerID="db9fdb18-2dc1-ff7d-e6ca-2b7900000024" InPoint="0" MasterClipReference="9aed022f-395c-4ca3-84d9-af22e2ab0958" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Петя посмотрел угрожающе" AssetType="AssetTypeSubClip" ClassID="daae8de0-4608-446d-9436-398abe172143" Duration="44393485207519" ImportDate="2022-07-19 01:52:06" InOutMarkerID="312a632c-e6ae-8642-7dbb-6c4600000024" InPoint="37213306787535" MasterClipReference="9aed022f-395c-4ca3-84d9-af22e2ab0958" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Дима докурил" AssetType="AssetTypeSubClip" ClassID="9d440634-4a4a-44e4-addc-cecd9237fef6" Duration="24614125786431" ImportDate="2022-07-19 01:52:06" InOutMarkerID="a3fe1e53-2da5-1acf-e468-864b00000024" InPoint="86551631850326" MasterClipReference="9aed022f-395c-4ca3-84d9-af22e2ab0958" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Димас поплатиться за такой агресивный поступок" AssetType="AssetTypeSubClip" ClassID="5eb59824-426f-42d3-97cb-095643de8736" Duration="42065007535944" ImportDate="2022-07-19 01:52:06" InOutMarkerID="a48ad234-381b-de49-b4fb-966600000024" InPoint="111487510915011" MasterClipReference="9aed022f-395c-4ca3-84d9-af22e2ab0958" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Спаринг без по лицу" AssetType="AssetTypeSubClip" ClassID="18c95f69-d590-4b54-9f87-800d5ec4ea00" Duration="44014051831338" ImportDate="2022-07-19 01:52:06" InOutMarkerID="2c757f5a-2b5b-c4b5-b1ed-a36c00000024" InPoint="0" MasterClipReference="8faf6b5f-09de-465b-aa07-bed35683370b" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Спарринг со своими не делаю" AssetType="AssetTypeSubClip" ClassID="68449350-3701-407d-b1ad-6e8f5b60c9fd" Duration="22663888811284" ImportDate="2022-07-19 01:52:06" InOutMarkerID="4dd836f5-1a9e-45ca-bf7a-3c7300000024" InPoint="45522717578686" MasterClipReference="8faf6b5f-09de-465b-aa07-bed35683370b" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Дима зверски ударяет Петю по прессу" AssetType="AssetTypeSubClip" ClassID="ebc0f9fa-780d-4cd3-8d01-09617e0a1476" Duration="20731440550636" ImportDate="2022-07-19 01:52:06" InOutMarkerID="d0a4fbe0-fabe-8f7b-cf48-e38c00000024" InPoint="73153337445846" MasterClipReference="8faf6b5f-09de-465b-aa07-bed35683370b" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Петя ебашит по Диме Серию" AssetType="AssetTypeSubClip" ClassID="7381f07a-de0f-4bf7-b291-449c6ac70e2b" Duration="46294001752892" ImportDate="2022-07-19 01:52:06" InOutMarkerID="708b4cb5-94fb-56f2-d2f5-e50600000024" InPoint="94257706608186" MasterClipReference="8faf6b5f-09de-465b-aa07-bed35683370b" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Смысл от твоего спорта" AssetType="AssetTypeSubClip" ClassID="d5a5cb64-4482-40a4-b00e-797eb3f32caf" Duration="110217356059064" ImportDate="2022-07-19 01:52:06" InOutMarkerID="f0db2d8a-1ab3-4614-86be-1eee00000024" InPoint="145509963766688" MasterClipReference="8faf6b5f-09de-465b-aa07-bed35683370b" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <RoughCut AssetName="Ночная пиздилка с слепыми Китайцами" AssetRelinkSkipped="false" AssetType="AssetTypeRoughCut" ClassID="d89ba4e6-55b6-4146-9f3c-1589b4a3512a" CreatedDate="12/07/21, 23:29:53" FilePath_BEFormat="D:\Documents\Adobe\Prelude\10.0\Rough Cuts\Ночная пиздилка с слепыми Китайцами.arcutx" ImportDate="2021-12-07 23:29:53" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <SubClip AssetName="Петя вьебал по Диме" AssetType="AssetTypeSubClip" ClassID="a4321db2-4f92-4f41-979c-f92bdc3a11bc" Duration="126236335061804" ImportDate="2022-07-19 01:52:06" InOutMarkerID="1cfecd73-0103-c3a4-3158-505100000024" InPoint="0" MasterClipReference="9963f970-2415-4ba2-8752-ba093485a4a5" ParentClassID="14b531ce-c6d6-476e-a6b5-fbaa9bec5edb"/>
+
+  <Bin AssetName="Chill_Zone_Any" AssetType="AssetTypeBin" ClassID="25ca5738-9778-4f83-be0b-ccbad28f487e" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="313fc2b4-439c-4fdf-b880-56b243dc2300"/>
+    <AssetChild ClassID="99849e64-f80f-4801-aa17-1f2e44382a7c"/>
+    <AssetChild ClassID="2caedc6d-be0a-4967-8004-6f00a7c66361"/>
+    <AssetChild ClassID="26ea0c0b-75ce-4e0f-a217-eace523b622a"/>
+    <AssetChild ClassID="581691c7-6ff5-4176-b3ca-50067aca2fa4"/>
+    <AssetChild ClassID="023e776e-ac7a-45e7-92ae-39285189dc76"/>
+  </Bin>
+
+  <MasterClip AssetName="20201014_205805.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="313fc2b4-439c-4fdf-b880-56b243dc2300" CreatedDate="12/05/21, 21:24:35" DropFrame="false" Duration="13321595798160" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_Any\20201014_205805.mpg" FrameRate="8539484486" ImportDate="2021-12-05 21:24:36" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e" StartTime="0">
+    <SubClipReference ClassID="581691c7-6ff5-4176-b3ca-50067aca2fa4"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201014_205903.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="99849e64-f80f-4801-aa17-1f2e44382a7c" CreatedDate="12/05/21, 21:24:35" DropFrame="false" Duration="16897612725504" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_Any\20201014_205903.mpg" FrameRate="8482737312" ImportDate="2021-12-05 21:24:36" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e" StartTime="0">
+    <SubClipReference ClassID="023e776e-ac7a-45e7-92ae-39285189dc76"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201014_213301.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="2caedc6d-be0a-4967-8004-6f00a7c66361" CreatedDate="12/05/21, 21:24:35" DropFrame="false" Duration="12294362105916" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_Any\20201014_213301.mpg" FrameRate="8467191533" ImportDate="2021-12-05 21:24:36" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e" StartTime="0"/>
+
+  <MasterClip AssetName="20201014_213356.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="26ea0c0b-75ce-4e0f-a217-eace523b622a" CreatedDate="12/05/21, 21:24:35" DropFrame="false" Duration="8543396256797" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\Chill_Zone_Any\20201014_213356.mpg" FrameRate="8467191533" ImportDate="2021-12-05 21:24:37" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e" StartTime="0"/>
+
+  <SubClip AssetName="Саня под Lost And Damned " AssetType="AssetTypeSubClip" ClassID="581691c7-6ff5-4176-b3ca-50067aca2fa4" Duration="13321595798160" ImportDate="2022-07-19 01:52:08" InOutMarkerID="efc41da1-2412-66d2-7538-88a500000024" InPoint="0" MasterClipReference="313fc2b4-439c-4fdf-b880-56b243dc2300" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e"/>
+
+  <SubClip AssetName="Новый Джонни Клебиц" AssetType="AssetTypeSubClip" ClassID="023e776e-ac7a-45e7-92ae-39285189dc76" Duration="16897612725504" ImportDate="2022-07-19 01:52:08" InOutMarkerID="3f9622d3-ae1e-3afa-6003-1d8c00000024" InPoint="0" MasterClipReference="99849e64-f80f-4801-aa17-1f2e44382a7c" ParentClassID="25ca5738-9778-4f83-be0b-ccbad28f487e"/>
+
+  <Bin AssetName="HBD DIMA 2020" AssetType="AssetTypeBin" ClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" ParentClassID="1da752be-016f-4206-9bb1-37557188bfef">
+    <AssetChild ClassID="689470dd-b6a5-4408-bf25-87d61e7c2b10"/>
+    <AssetChild ClassID="6fb987e6-f951-4243-9404-082185b2faf8"/>
+    <AssetChild ClassID="c783a05e-7480-4df8-bc9b-e9480f593fd7"/>
+    <AssetChild ClassID="2c2c8ad2-589d-489c-b66b-2ebabc458dfe"/>
+    <AssetChild ClassID="71d2e842-b199-42e2-beb4-385cb8372edb"/>
+    <AssetChild ClassID="d2a2e88b-dc06-430b-bed1-10e746c6afd9"/>
+    <AssetChild ClassID="370a6d6e-5d7a-48c5-84c5-4dc294986c64"/>
+    <AssetChild ClassID="7633008e-e3b9-4bb7-baf5-1f98b11fc37d"/>
+    <AssetChild ClassID="5348ded1-b64e-4de5-b5ea-030771e08398"/>
+    <AssetChild ClassID="8496416d-fb68-4f61-ade6-8414f621198b"/>
+    <AssetChild ClassID="f8fbbaaf-8994-4e8f-a1ec-42e46a9894fc"/>
+    <AssetChild ClassID="2caf02ae-1f1b-4bf6-8304-f8da08e54b8d"/>
+    <AssetChild ClassID="a4c9acf1-5442-488a-a49a-88144c7e82ae"/>
+    <AssetChild ClassID="3be074a7-d606-4e42-a668-a94b8d8df6b4"/>
+    <AssetChild ClassID="c40f5041-9b7f-48b1-9604-8af7702d10d9"/>
+    <AssetChild ClassID="f5804bdc-15dc-4838-bdc5-39dc75858819"/>
+    <AssetChild ClassID="4fe5a1f4-82b2-41bc-b6b0-d6b6087e246a"/>
+    <AssetChild ClassID="b6aea5bd-4b48-4867-a9ee-d6a10ce1afaa"/>
+    <AssetChild ClassID="db439fa5-a6bf-4318-9b04-739398cb6eef"/>
+    <AssetChild ClassID="359eee86-d578-4b7a-94ff-82234b8a475d"/>
+    <AssetChild ClassID="fcbd7684-ae10-4791-9955-69cbb5328dc4"/>
+    <AssetChild ClassID="13eb19db-bd87-4674-b5ad-8d367a88dd22"/>
+    <AssetChild ClassID="a043b896-6a15-4969-8ef7-159219209a60"/>
+    <AssetChild ClassID="65c0aa47-44e7-47d0-b280-5a337b47ed90"/>
+    <AssetChild ClassID="74bedab7-e7c3-4698-80b1-a2ce234b73c5"/>
+    <AssetChild ClassID="4abe5c2d-d082-48f9-9762-99957d301bcf"/>
+    <AssetChild ClassID="b17574f9-4942-43ae-8273-035f8aaf69a8"/>
+    <AssetChild ClassID="d885c67c-f68d-44ea-9080-af2e70df1236"/>
+    <AssetChild ClassID="9b5553a3-61db-44da-955d-569d833812c7"/>
+    <AssetChild ClassID="560966a6-61ef-4257-be6e-9e7ac5d1989d"/>
+    <AssetChild ClassID="db7611ec-5bc2-4215-808e-f295b4f6c5ec"/>
+    <AssetChild ClassID="45bd49db-8441-4f11-bb93-35b520373cac"/>
+    <AssetChild ClassID="d737f11e-d6f3-441a-ab4b-32157b1e2ff8"/>
+    <AssetChild ClassID="f54789f1-93eb-4eb4-a112-935345c1c634"/>
+    <AssetChild ClassID="9ec69a85-7f67-4df4-b60c-8ee4b8e5cabd"/>
+    <AssetChild ClassID="bc436371-0a75-4cf5-8e95-0da524a8b71a"/>
+    <AssetChild ClassID="93ae583f-10cf-4861-a895-ae3b4fe101c9"/>
+    <AssetChild ClassID="e57b70a3-c3eb-4b14-a3e5-beca6b9f8275"/>
+    <AssetChild ClassID="9debca83-0e27-434b-8010-477f645064e6"/>
+    <AssetChild ClassID="7f5b7b15-1533-48f0-bcc4-941a73fa5bf9"/>
+    <AssetChild ClassID="62fda172-892f-400c-8a54-3f6798e21502"/>
+    <AssetChild ClassID="8e2d9e89-8a6d-4035-bb66-ab20b3693be8"/>
+    <AssetChild ClassID="b647fa3d-4ff4-4f5f-8dc1-16a924a288cd"/>
+    <AssetChild ClassID="39758192-820b-4656-8baa-3d40aba8309e"/>
+    <AssetChild ClassID="cabf4cca-4220-449c-abed-ecac15020afe"/>
+    <AssetChild ClassID="9575bf5d-7ba4-42a5-bc72-50c1325d9065"/>
+    <AssetChild ClassID="23b70b96-aec7-4c2c-86ac-bc5d4704e1e2"/>
+    <AssetChild ClassID="b8c82c58-310f-49d3-ac0f-a467fc5cf840"/>
+    <AssetChild ClassID="a2b42b6f-422f-44a7-a7ae-9404528463de"/>
+    <AssetChild ClassID="d71ce3e7-4f58-4353-98c0-aaf14c589d46"/>
+    <AssetChild ClassID="4dc741ab-e861-4406-97b0-3f5259802e75"/>
+    <AssetChild ClassID="112bfe7a-f8d8-41bd-b109-87fda69299b7"/>
+    <AssetChild ClassID="1fe3ca67-e11c-4ef1-82b0-6422866bb095"/>
+    <AssetChild ClassID="bb2e0f04-6d0c-4de6-a454-e4d7bb9f264f"/>
+    <AssetChild ClassID="d3d45024-9d34-487e-8447-6fca497c6571"/>
+    <AssetChild ClassID="74d26147-c180-4de9-86a4-0d6d8fc9afcc"/>
+    <AssetChild ClassID="a97cd4c8-a067-45e6-8caa-9aa387844ef2"/>
+    <AssetChild ClassID="044524af-6218-43ce-a3b0-13bf10eb9ef0"/>
+    <AssetChild ClassID="f04277c2-48d4-4046-b4e1-b83949f4c464"/>
+    <AssetChild ClassID="42297890-9526-495f-a726-53502fc916a2"/>
+    <AssetChild ClassID="1895fe21-5f80-4442-8aa2-acdc3eb4ccdf"/>
+    <AssetChild ClassID="5be67916-82d4-444e-8d94-c9a7b4412288"/>
+    <AssetChild ClassID="55ca0353-b013-4803-93aa-e09ebb55481d"/>
+    <AssetChild ClassID="e45efe5d-4896-4452-b295-a3114b547ec7"/>
+    <AssetChild ClassID="8c5015c0-6480-4235-a4a0-eb6bd7fb0fbb"/>
+    <AssetChild ClassID="649cdbfe-17dc-426f-abc6-62aaefedb472"/>
+    <AssetChild ClassID="4948cc77-bc99-4301-a8df-72a649efafd8"/>
+    <AssetChild ClassID="b7784b0c-6581-4072-8d22-cd14a802d6ec"/>
+    <AssetChild ClassID="e1321ec1-1044-4b87-b93a-831fe0490582"/>
+    <AssetChild ClassID="d527d5e2-f6c2-48bc-972c-74dc941b641d"/>
+    <AssetChild ClassID="c1f531c6-46ca-48ee-a1a3-efd80561d120"/>
+    <AssetChild ClassID="a713753a-d88a-4514-901a-bd5be2eaa983"/>
+    <AssetChild ClassID="a4533b19-8e6a-4be6-bca3-39e2095d03f6"/>
+    <AssetChild ClassID="45fe5f04-4c51-4c4c-a11e-c5882b936596"/>
+    <AssetChild ClassID="3162b8a6-a89e-4693-884c-cf113525c65b"/>
+    <AssetChild ClassID="42e4ffa5-6496-4100-b69a-a4a3ba0077f6"/>
+    <AssetChild ClassID="1697fc7e-c0cf-4a20-b123-bb5be244e988"/>
+    <AssetChild ClassID="10718a2d-58af-4d97-8e06-14b2253af06d"/>
+    <AssetChild ClassID="4f8a5771-bf9b-46f9-a4d4-9a3f9658a200"/>
+    <AssetChild ClassID="f2e54dc8-0f6f-47e0-9f40-8d2482cdf5ed"/>
+    <AssetChild ClassID="d9f2b631-d676-420b-ae57-47d0d2002325"/>
+    <AssetChild ClassID="9283cc0e-864d-4d9e-b696-296e78198169"/>
+    <AssetChild ClassID="26f9fb05-d6be-4468-a631-336ce6391a73"/>
+    <AssetChild ClassID="dcdcf954-b8b6-4332-b3a1-9cda7ef3d300"/>
+    <AssetChild ClassID="d1647fac-dd0d-4f78-a77c-78ca4a57cb40"/>
+    <AssetChild ClassID="15aa73ed-9036-4261-9d0b-73af2079a90a"/>
+    <AssetChild ClassID="7458e461-4084-4ace-841a-0060d10c76ec"/>
+    <AssetChild ClassID="4a987159-6523-4265-8a78-6e10e58e6d3c"/>
+    <AssetChild ClassID="0c7bbdc8-d359-4cf3-b4ed-5c9e338f0515"/>
+    <AssetChild ClassID="b84a77dd-0fb7-4ef9-b354-23311a99e4e3"/>
+    <AssetChild ClassID="08fc9030-8a62-429a-b133-5929e5fbca5f"/>
+    <AssetChild ClassID="40aea500-669b-4032-8265-5371e4a97b5a"/>
+    <AssetChild ClassID="761409bb-a58c-49f9-a65b-95eda92a8b3a"/>
+    <AssetChild ClassID="2cefd2ad-2ee7-4020-9868-3dfc194410ea"/>
+    <AssetChild ClassID="926a433e-ff10-4446-babe-2d9522cda7c5"/>
+    <AssetChild ClassID="68919861-2969-47ef-a39c-ad6d9e1cb326"/>
+    <AssetChild ClassID="0ecf0077-a483-426c-8b80-3c6c63d304dc"/>
+    <AssetChild ClassID="deda4ed8-105e-47aa-9ef7-78bdea116e7c"/>
+    <AssetChild ClassID="2bc42782-1bdd-4cca-8296-ec1efcd29e3e"/>
+  </Bin>
+
+  <MasterClip AssetName="20201107_135310.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="689470dd-b6a5-4408-bf25-87d61e7c2b10" CreatedDate="12/23/21, 23:09:50" DropFrame="false" Duration="27120414480199" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_135310.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:41" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="40aea500-669b-4032-8265-5371e4a97b5a"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_135513.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="6fb987e6-f951-4243-9404-082185b2faf8" CreatedDate="12/23/21, 23:09:50" DropFrame="false" Duration="72733175268470" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_135513.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:42" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="761409bb-a58c-49f9-a65b-95eda92a8b3a"/>
+    <SubClipReference ClassID="2cefd2ad-2ee7-4020-9868-3dfc194410ea"/>
+    <SubClipReference ClassID="926a433e-ff10-4446-babe-2d9522cda7c5"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_140003.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c783a05e-7480-4df8-bc9b-e9480f593fd7" CreatedDate="12/23/21, 23:09:51" DropFrame="false" Duration="29685973514698" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_140003.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:42" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="68919861-2969-47ef-a39c-ad6d9e1cb326"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_142016.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="2c2c8ad2-589d-489c-b66b-2ebabc458dfe" CreatedDate="12/23/21, 23:09:53" DropFrame="false" Duration="27061144139468" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_142016.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:43" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="0ecf0077-a483-426c-8b80-3c6c63d304dc"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_142255.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="71d2e842-b199-42e2-beb4-385cb8372edb" CreatedDate="12/23/21, 23:09:53" DropFrame="false" Duration="34656214944569" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_142255.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:44" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="deda4ed8-105e-47aa-9ef7-78bdea116e7c"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_142529.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d2a2e88b-dc06-430b-bed1-10e746c6afd9" CreatedDate="12/23/21, 23:09:53" DropFrame="false" Duration="24638715323262" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_142529.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:45" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0">
+    <SubClipReference ClassID="2bc42782-1bdd-4cca-8296-ec1efcd29e3e"/>
+  </MasterClip>
+
+  <MasterClip AssetName="20201107_143043.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="370a6d6e-5d7a-48c5-84c5-4dc294986c64" CreatedDate="12/23/21, 23:09:54" DropFrame="false" Duration="37170970829870" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_143043.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:45" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_143430.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7633008e-e3b9-4bb7-baf5-1f98b11fc37d" CreatedDate="12/23/21, 23:09:55" DropFrame="false" Duration="16629564170812" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_143430.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:46" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_143716.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5348ded1-b64e-4de5-b5ea-030771e08398" CreatedDate="12/23/21, 23:09:55" DropFrame="false" Duration="99887458514801" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_143716.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:47" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_150546.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8496416d-fb68-4f61-ade6-8414f621198b" CreatedDate="12/23/21, 23:09:57" DropFrame="false" Duration="57754713446593" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_150546.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:47" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_150946.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f8fbbaaf-8994-4e8f-a1ec-42e46a9894fc" CreatedDate="12/23/21, 23:10:00" DropFrame="false" Duration="61923100843396" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_150946.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:48" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_153557.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="2caf02ae-1f1b-4bf6-8304-f8da08e54b8d" CreatedDate="12/23/21, 23:10:01" DropFrame="false" Duration="11687921716814" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_153557.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:48" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_153723.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a4c9acf1-5442-488a-a49a-88144c7e82ae" CreatedDate="12/23/21, 23:10:01" DropFrame="false" Duration="5551550924230" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_153723.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:48" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_155139.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="3be074a7-d606-4e42-a668-a94b8d8df6b4" CreatedDate="12/23/21, 23:10:01" DropFrame="false" Duration="39584120416775" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_155139.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:49" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_155508.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c40f5041-9b7f-48b1-9604-8af7702d10d9" CreatedDate="12/23/21, 23:10:02" DropFrame="false" Duration="21024036576439" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_155508.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:49" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_155852.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f5804bdc-15dc-4838-bdc5-39dc75858819" CreatedDate="12/23/21, 23:10:03" DropFrame="false" Duration="10126761073468" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_155852.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:49" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_162452.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4fe5a1f4-82b2-41bc-b6b0-d6b6087e246a" CreatedDate="12/23/21, 23:10:03" DropFrame="false" Duration="19008844991585" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_162452.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:50" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_163113.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b6aea5bd-4b48-4867-a9ee-d6a10ce1afaa" CreatedDate="12/23/21, 23:10:04" DropFrame="false" Duration="62151943400578" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_163113.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:50" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_164127.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="db439fa5-a6bf-4318-9b04-739398cb6eef" CreatedDate="12/23/21, 23:10:05" DropFrame="false" Duration="7527333272837" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_164127.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:51" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_173824.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="359eee86-d578-4b7a-94ff-82234b8a475d" CreatedDate="12/23/21, 23:10:05" DropFrame="false" Duration="22779969068370" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_173824.mpg" FrameRate="8484159802" ImportDate="2021-12-23 23:11:51" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_174430.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="fcbd7684-ae10-4791-9955-69cbb5328dc4" CreatedDate="12/23/21, 23:10:06" DropFrame="false" Duration="101322401064258" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_174430.mpg" FrameRate="8492364518" ImportDate="2021-12-23 23:11:52" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_175235.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="13eb19db-bd87-4674-b5ad-8d367a88dd22" CreatedDate="12/23/21, 23:10:08" DropFrame="false" Duration="34046240863212" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_175235.mpg" FrameRate="8481873658" ImportDate="2021-12-23 23:11:52" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_175550.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a043b896-6a15-4969-8ef7-159219209a60" CreatedDate="12/23/21, 23:10:09" DropFrame="false" Duration="107886750256610" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_175550.mpg" FrameRate="8484998054" ImportDate="2021-12-23 23:11:53" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_180301.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="65c0aa47-44e7-47d0-b280-5a337b47ed90" CreatedDate="12/23/21, 23:10:12" DropFrame="false" Duration="37796698041816" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_180301.mpg" FrameRate="8489824358" ImportDate="2021-12-23 23:11:53" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_180533.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="74bedab7-e7c3-4698-80b1-a2ce234b73c5" CreatedDate="12/23/21, 23:10:13" DropFrame="false" Duration="68534695126188" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_180533.mpg" FrameRate="8479917734" ImportDate="2021-12-23 23:11:54" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_181012.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4abe5c2d-d082-48f9-9762-99957d301bcf" CreatedDate="12/23/21, 23:10:15" DropFrame="false" Duration="29181663865838" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_181012.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:54" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_181237.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b17574f9-4942-43ae-8273-035f8aaf69a8" CreatedDate="12/23/21, 23:10:17" DropFrame="false" Duration="9663587613213" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_181237.mpg" FrameRate="8499197549" ImportDate="2021-12-23 23:11:55" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_181719.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d885c67c-f68d-44ea-9080-af2e70df1236" CreatedDate="12/23/21, 23:10:17" DropFrame="false" Duration="10669429170642" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_181719.mpg" FrameRate="8508316723" ImportDate="2021-12-23 23:11:55" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_182425.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9b5553a3-61db-44da-955d-569d833812c7" CreatedDate="12/23/21, 23:10:18" DropFrame="false" Duration="50557117653942" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_182425.mpg" FrameRate="8481314822" ImportDate="2021-12-23 23:11:56" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_183258.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="560966a6-61ef-4257-be6e-9e7ac5d1989d" CreatedDate="12/23/21, 23:10:19" DropFrame="false" Duration="50159642641492" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_183258.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:56" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_195748.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="db7611ec-5bc2-4215-808e-f295b4f6c5ec" CreatedDate="12/23/21, 23:10:19" DropFrame="false" Duration="21303453897028" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_195748.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:56" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_211116.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="45bd49db-8441-4f11-bb93-35b520373cac" CreatedDate="12/23/21, 23:10:20" DropFrame="false" Duration="21328855471627" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_211116.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:57" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_211259.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d737f11e-d6f3-441a-ab4b-32157b1e2ff8" CreatedDate="12/23/21, 23:10:21" DropFrame="false" Duration="7916257348444" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_211259.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:57" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_211336.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f54789f1-93eb-4eb4-a112-935345c1c634" CreatedDate="12/23/21, 23:10:22" DropFrame="false" Duration="7307186292979" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_211336.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:58" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_211421.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9ec69a85-7f67-4df4-b60c-8ee4b8e5cabd" CreatedDate="12/23/21, 23:10:22" DropFrame="false" Duration="4800897599211" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_211421.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:58" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_211546.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="bc436371-0a75-4cf5-8e95-0da524a8b71a" CreatedDate="12/23/21, 23:10:23" DropFrame="false" Duration="49338325062791" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_211546.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:11:59" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_213336.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="93ae583f-10cf-4861-a895-ae3b4fe101c9" CreatedDate="12/23/21, 23:10:23" DropFrame="false" Duration="40742450828662" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_213336.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:59" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_213723.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e57b70a3-c3eb-4b14-a3e5-beca6b9f8275" CreatedDate="12/23/21, 23:10:24" DropFrame="false" Duration="22257057598516" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_213723.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:11:59" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_213900.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9debca83-0e27-434b-8010-477f645064e6" CreatedDate="12/23/21, 23:10:25" DropFrame="false" Duration="10721421266876" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_213900.mpg" FrameRate="8522592422" ImportDate="2021-12-23 23:12:00" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201107_235649.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7f5b7b15-1533-48f0-bcc4-941a73fa5bf9" CreatedDate="12/23/21, 23:10:25" DropFrame="false" Duration="657649837152" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201107_235649.mpg" FrameRate="8540906976" ImportDate="2021-12-23 23:12:00" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_000000.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="62fda172-892f-400c-8a54-3f6798e21502" CreatedDate="12/23/21, 23:10:26" DropFrame="false" Duration="76518009883721" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_000000.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:00" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_000506.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8e2d9e89-8a6d-4035-bb66-ab20b3693be8" CreatedDate="12/23/21, 23:10:28" DropFrame="false" Duration="39626456374440" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_000506.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:01" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_000909.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b647fa3d-4ff4-4f5f-8dc1-16a924a288cd" CreatedDate="12/23/21, 23:10:29" DropFrame="false" Duration="10008220392006" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_000909.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:01" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_002123.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="39758192-820b-4656-8baa-3d40aba8309e" CreatedDate="12/23/21, 23:10:29" DropFrame="false" Duration="2159133840915" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_002123.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:02" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_002211.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="cabf4cca-4220-449c-abed-ecac15020afe" CreatedDate="12/23/21, 23:10:29" DropFrame="false" Duration="2269207330844" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_002211.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:02" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_003746.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9575bf5d-7ba4-42a5-bc72-50c1325d9065" CreatedDate="12/23/21, 23:10:29" DropFrame="false" Duration="159138809394416" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_003746.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:02" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_004823.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="23b70b96-aec7-4c2c-86ac-bc5d4704e1e2" CreatedDate="12/23/21, 23:10:34" DropFrame="false" Duration="22742876457638" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_004823.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:03" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_005000.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b8c82c58-310f-49d3-ac0f-a467fc5cf840" CreatedDate="12/23/21, 23:10:35" DropFrame="false" Duration="61878235723164" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_005000.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:03" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_010542.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a2b42b6f-422f-44a7-a7ae-9404528463de" CreatedDate="12/23/21, 23:10:37" DropFrame="false" Duration="39507915692978" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_010542.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:04" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_053308.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d71ce3e7-4f58-4353-98c0-aaf14c589d46" CreatedDate="12/23/21, 23:10:38" DropFrame="false" Duration="23471054929476" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_053308.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:04" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_053444.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4dc741ab-e861-4406-97b0-3f5259802e75" CreatedDate="12/23/21, 23:10:38" DropFrame="false" Duration="119074410587034" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_053444.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:05" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_091554.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="112bfe7a-f8d8-41bd-b109-87fda69299b7" CreatedDate="12/23/21, 23:10:41" DropFrame="false" Duration="37374183426662" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_091554.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:05" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_093553.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="1fe3ca67-e11c-4ef1-82b0-6422866bb095" CreatedDate="12/23/21, 23:10:43" DropFrame="false" Duration="19220524779910" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_093553.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:05" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_093712.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="bb2e0f04-6d0c-4de6-a454-e4d7bb9f264f" CreatedDate="12/23/21, 23:10:43" DropFrame="false" Duration="73258141143516" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_093712.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:06" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_094221.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d3d45024-9d34-487e-8447-6fca497c6571" CreatedDate="12/23/21, 23:10:45" DropFrame="false" Duration="86094403507544" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_094221.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:06" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_094805.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="74d26147-c180-4de9-86a4-0d6d8fc9afcc" CreatedDate="12/23/21, 23:10:48" DropFrame="false" Duration="19618482781961" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_094805.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:06" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_095154.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a97cd4c8-a067-45e6-8caa-9aa387844ef2" CreatedDate="12/23/21, 23:10:48" DropFrame="false" Duration="54388247756922" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_095154.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:07" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_095532.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="044524af-6218-43ce-a3b0-13bf10eb9ef0" CreatedDate="12/23/21, 23:10:50" DropFrame="false" Duration="58669170132157" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_095532.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:07" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_095935.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f04277c2-48d4-4046-b4e1-b83949f4c464" CreatedDate="12/23/21, 23:10:52" DropFrame="false" Duration="138624859778276" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_095935.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:08" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_100844.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="42297890-9526-495f-a726-53502fc916a2" CreatedDate="12/23/21, 23:10:56" DropFrame="false" Duration="99599574002679" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_100844.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:08" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_101613.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="1895fe21-5f80-4442-8aa2-acdc3eb4ccdf" CreatedDate="12/23/21, 23:10:58" DropFrame="false" Duration="29657499843794" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_101613.mpg" FrameRate="8488122451" ImportDate="2021-12-23 23:12:08" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_101843.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="5be67916-82d4-444e-8d94-c9a7b4412288" CreatedDate="12/23/21, 23:11:00" DropFrame="false" Duration="84019941581959" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_101843.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:09" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_102918.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="55ca0353-b013-4803-93aa-e09ebb55481d" CreatedDate="12/23/21, 23:11:03" DropFrame="false" Duration="14690577309755" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_102918.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:09" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_103034.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e45efe5d-4896-4452-b295-a3114b547ec7" CreatedDate="12/23/21, 23:11:03" DropFrame="false" Duration="66711843243686" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_103034.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:09" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_103919.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="8c5015c0-6480-4235-a4a0-eb6bd7fb0fbb" CreatedDate="12/23/21, 23:11:05" DropFrame="false" Duration="9686467113752" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_103919.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:10" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_104004.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="649cdbfe-17dc-426f-abc6-62aaefedb472" CreatedDate="12/23/21, 23:11:05" DropFrame="false" Duration="10077548166274" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_104004.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:10" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_104110.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4948cc77-bc99-4301-a8df-72a649efafd8" CreatedDate="12/23/21, 23:11:06" DropFrame="false" Duration="60379542821823" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_104110.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:11" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_105015.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b7784b0c-6581-4072-8d22-cd14a802d6ec" CreatedDate="12/23/21, 23:11:07" DropFrame="false" Duration="31895910504811" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_105015.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:11" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_105223.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="e1321ec1-1044-4b87-b93a-831fe0490582" CreatedDate="12/23/21, 23:11:08" DropFrame="false" Duration="79413789388007" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_105223.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:11" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_105854.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d527d5e2-f6c2-48bc-972c-74dc941b641d" CreatedDate="12/23/21, 23:11:10" DropFrame="false" Duration="11837133763134" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_105854.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:12" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_105955.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="c1f531c6-46ca-48ee-a1a3-efd80561d120" CreatedDate="12/23/21, 23:11:10" DropFrame="false" Duration="8729674470523" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_105955.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:12" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_110048.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a713753a-d88a-4514-901a-bd5be2eaa983" CreatedDate="12/23/21, 23:11:11" DropFrame="false" Duration="36915514509210" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_110048.mpg" FrameRate="8480476570" ImportDate="2021-12-23 23:12:12" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_110316.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="a4533b19-8e6a-4be6-bca3-39e2095d03f6" CreatedDate="12/23/21, 23:11:12" DropFrame="false" Duration="28602172998474" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_110316.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:13" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_110526.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="45fe5f04-4c51-4c4c-a11e-c5882b936596" CreatedDate="12/23/21, 23:11:13" DropFrame="false" Duration="4191259808835" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_110526.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:13" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_110651.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="3162b8a6-a89e-4693-884c-cf113525c65b" CreatedDate="12/23/21, 23:11:13" DropFrame="false" Duration="32005983994740" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_110651.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:13" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_110905.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="42e4ffa5-6496-4100-b69a-a4a3ba0077f6" CreatedDate="12/23/21, 23:11:14" DropFrame="false" Duration="34529207071574" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_110905.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:14" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_111124.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="1697fc7e-c0cf-4a20-b123-bb5be244e988" CreatedDate="12/23/21, 23:11:14" DropFrame="false" Duration="9459295879803" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_111124.mpg" FrameRate="8498918131" ImportDate="2021-12-23 23:12:14" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_111205.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="10718a2d-58af-4d97-8e06-14b2253af06d" CreatedDate="12/23/21, 23:11:14" DropFrame="false" Duration="47754960246120" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_111205.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:14" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_111518.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4f8a5771-bf9b-46f9-a4d4-9a3f9658a200" CreatedDate="12/23/21, 23:11:15" DropFrame="false" Duration="4428341171759" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_111518.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:15" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_111540.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="f2e54dc8-0f6f-47e0-9f40-8d2482cdf5ed" CreatedDate="12/23/21, 23:11:16" DropFrame="false" Duration="7493464506705" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_111540.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:15" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_111717.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d9f2b631-d676-420b-ae57-47d0d2002325" CreatedDate="12/23/21, 23:11:16" DropFrame="false" Duration="182197027407094" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_111717.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:16" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_112919.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="9283cc0e-864d-4d9e-b696-296e78198169" CreatedDate="12/23/21, 23:11:22" DropFrame="false" Duration="34630813369970" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_112919.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:16" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_113139.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="26f9fb05-d6be-4468-a631-336ce6391a73" CreatedDate="12/23/21, 23:11:23" DropFrame="false" Duration="10888808311438" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_113139.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:17" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_113225.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="dcdcf954-b8b6-4332-b3a1-9cda7ef3d300" CreatedDate="12/23/21, 23:11:24" DropFrame="false" Duration="23452124286022" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_113225.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:17" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_113410.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="d1647fac-dd0d-4f78-a77c-78ca4a57cb40" CreatedDate="12/23/21, 23:11:25" DropFrame="false" Duration="59769905031447" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_113410.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:17" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_113809.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="15aa73ed-9036-4261-9d0b-73af2079a90a" CreatedDate="12/23/21, 23:11:27" DropFrame="false" Duration="55045212156033" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_113809.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:18" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_114149.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="7458e461-4084-4ace-841a-0060d10c76ec" CreatedDate="12/23/21, 23:11:28" DropFrame="false" Duration="197531111273357" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_114149.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:18" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_115450.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="4a987159-6523-4265-8a78-6e10e58e6d3c" CreatedDate="12/23/21, 23:11:33" DropFrame="false" Duration="77661080740676" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_115450.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:18" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_120001.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="0c7bbdc8-d359-4cf3-b4ed-5c9e338f0515" CreatedDate="12/23/21, 23:11:35" DropFrame="false" Duration="171469095734783" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_120001.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:19" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_123133.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="b84a77dd-0fb7-4ef9-b354-23311a99e4e3" CreatedDate="12/23/21, 23:11:39" DropFrame="false" Duration="17892097711526" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_123133.mpg" FrameRate="8475650266" ImportDate="2021-12-23 23:12:19" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <MasterClip AssetName="20201108_131620.mpg" AssetRelinkSkipped="false" AssetType="AssetTypeMasterClip" ClassID="08fc9030-8a62-429a-b133-5929e5fbca5f" CreatedDate="12/23/21, 23:11:40" DropFrame="false" Duration="9093763706442" ExtraFilesPath="" FilePath="D:\Videos\Adobe\Однажды в Молдове 5\Используемые видео\DIMA_HBD_2020\20201108_131620.mpg" FrameRate="8467191533" ImportDate="2021-12-23 23:12:20" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98" StartTime="0"/>
+
+  <SubClip AssetName="Богатый стол на др" AssetType="AssetTypeSubClip" ClassID="40aea500-669b-4032-8265-5371e4a97b5a" Duration="27120414480199" ImportDate="2022-07-19 01:52:08" InOutMarkerID="72d4463e-b8ab-2037-1753-36a600000024" InPoint="0" MasterClipReference="689470dd-b6a5-4408-bf25-87d61e7c2b10" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="Шила агресирует сосо" AssetType="AssetTypeSubClip" ClassID="761409bb-a58c-49f9-a65b-95eda92a8b3a" Duration="26925669074940" ImportDate="2022-07-19 01:52:08" InOutMarkerID="da7081f9-6e93-be23-cc45-1fd600000024" InPoint="0" MasterClipReference="6fb987e6-f951-4243-9404-082185b2faf8" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="Орег арругутанг" AssetType="AssetTypeSubClip" ClassID="2cefd2ad-2ee7-4020-9868-3dfc194410ea" Duration="15283280717065" ImportDate="2022-07-19 01:52:08" InOutMarkerID="9a50d430-6ea0-da7b-a9ff-0a9200000024" InPoint="28974729425926" MasterClipReference="6fb987e6-f951-4243-9404-082185b2faf8" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="Шила хуй" AssetType="AssetTypeSubClip" ClassID="926a433e-ff10-4446-babe-2d9522cda7c5" Duration="9991286008940" ImportDate="2022-07-19 01:52:08" InOutMarkerID="1d62d743-669f-641d-6104-61e600000024" InPoint="62741889259530" MasterClipReference="6fb987e6-f951-4243-9404-082185b2faf8" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="Давай базарь" AssetType="AssetTypeSubClip" ClassID="68919861-2969-47ef-a39c-ad6d9e1cb326" Duration="15842115358243" ImportDate="2022-07-19 01:52:08" InOutMarkerID="19eac7d6-e605-b821-e0fa-676500000024" InPoint="0" MasterClipReference="c783a05e-7480-4df8-bc9b-e9480f593fd7" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="Ум какая вкуснятина" AssetType="AssetTypeSubClip" ClassID="0ecf0077-a483-426c-8b80-3c6c63d304dc" Duration="27061144139468" ImportDate="2022-07-19 01:52:08" InOutMarkerID="47124458-9a52-0856-aae1-83bc00000024" InPoint="0" MasterClipReference="2c2c8ad2-589d-489c-b66b-2ebabc458dfe" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="yellow oh yeah скинешь" AssetType="AssetTypeSubClip" ClassID="deda4ed8-105e-47aa-9ef7-78bdea116e7c" Duration="34656214944569" ImportDate="2022-07-19 01:52:08" InOutMarkerID="a24fd162-294f-11c1-0a3a-8e7e00000024" InPoint="0" MasterClipReference="71d2e842-b199-42e2-beb4-385cb8372edb" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+  <SubClip AssetName="миня снимаешь" AssetType="AssetTypeSubClip" ClassID="2bc42782-1bdd-4cca-8296-ec1efcd29e3e" Duration="9289312691536" ImportDate="2022-07-19 01:52:08" InOutMarkerID="a7397e5e-5c66-2388-1da1-a03000000024" InPoint="15349402631726" MasterClipReference="d2a2e88b-dc06-430b-bed1-10e746c6afd9" ParentClassID="4275d1ec-a0b8-4f08-a5bc-3b469e145d98"/>
+
+</Project>
