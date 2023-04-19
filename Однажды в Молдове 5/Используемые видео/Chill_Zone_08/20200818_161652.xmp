@@ -1,0 +1,146 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 79.217bca6, 2021/06/14-18:28:11        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+   xmpMM:InstanceID="xmp.iid:d15398f8-219b-1444-af40-3dad6570cb52"
+   xmpMM:DocumentID="30999ab4-fbda-812c-ccbc-d1ba00000051"
+   xmpMM:OriginalDocumentID="xmp.did:2c585efd-3473-2545-ade4-786d40d90543"
+   xmp:MetadataDate="2021-10-17T10:42:44+03:00"
+   xmp:ModifyDate="2021-10-17T10:06:45+03:00">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="718999d1-eb38-9161-8ced-d5a70000007e"
+      stEvt:when="2021-10-17T10:06:45+03:00"
+      stEvt:softwareAgent="Adobe Prelude 2021.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:19c08bcd-4ce7-9540-a14f-3cb7dc7c678c"
+      stEvt:when="2021-10-17T10:28:37+03:00"
+      stEvt:softwareAgent="Adobe Prelude 2021.0 (Windows)"
+      stEvt:changed="/metadata/xmpDM/Tracks"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:d15398f8-219b-1444-af40-3dad6570cb52"
+      stEvt:when="2021-10-17T10:42:44+03:00"
+      stEvt:softwareAgent="Adobe Prelude 2021.0 (Windows)"
+      stEvt:changed="/metadata/xmpDM/Tracks"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpDM:Tracks>
+    <rdf:Bag>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:trackName="Comment"
+       xmpDM:trackType="Comment"
+       xmpDM:frameRate="f254016000000s8467191533">
+      <xmpDM:markers>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          xmpDM:startTime="4747"
+          xmpDM:duration="580"
+          xmpDM:comment="Hello man, how are you "
+          xmpDM:guid="5ece5279-9121-4487-a166-0f2b8e012cb8">
+         <xmpDM:cuePointParams>
+          <rdf:Seq>
+           <rdf:li
+            xmpDM:key="marker_guid"
+            xmpDM:value="5ece5279-9121-4487-a166-0f2b8e012cb8"/>
+          </rdf:Seq>
+         </xmpDM:cuePointParams>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          xmpDM:startTime="8172"
+          xmpDM:duration="209"
+          xmpDM:comment="Обзор на Диму"
+          xmpDM:guid="f8160e38-f7e3-484a-bf60-ab406fc21c0b">
+         <xmpDM:cuePointParams>
+          <rdf:Seq>
+           <rdf:li
+            xmpDM:key="marker_guid"
+            xmpDM:value="f8160e38-f7e3-484a-bf60-ab406fc21c0b"/>
+          </rdf:Seq>
+         </xmpDM:cuePointParams>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          xmpDM:startTime="10064"
+          xmpDM:duration="285"
+          xmpDM:comment="Ваня стреляет из дробовика в Петю"
+          xmpDM:guid="d7277c3c-7de8-4ee2-badd-109ef6de34c2">
+         <xmpDM:cuePointParams>
+          <rdf:Seq>
+           <rdf:li
+            xmpDM:key="marker_guid"
+            xmpDM:value="d7277c3c-7de8-4ee2-badd-109ef6de34c2"/>
+          </rdf:Seq>
+         </xmpDM:cuePointParams>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </xmpDM:markers>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:trackName="InOut"
+       xmpDM:trackType="InOut"
+       xmpDM:frameRate="f254016000000s8467191533">
+      <xmpDM:markers>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          xmpDM:startTime="0"
+          xmpDM:duration="13594"
+          xmpDM:name="Пришли с Димой на то место"
+          xmpDM:guid="26dd8732-bf5a-405f-b074-433d9f2901f5">
+         <xmpDM:cuePointParams>
+          <rdf:Seq>
+           <rdf:li
+            xmpDM:key="marker_guid"
+            xmpDM:value="26dd8732-bf5a-405f-b074-433d9f2901f5"/>
+          </rdf:Seq>
+         </xmpDM:cuePointParams>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </xmpDM:markers>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Bag>
+   </xmpDM:Tracks>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
